@@ -1,61 +1,42 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 import os
+import argparse
 import json
 import urllib
 
-
-# In[20]:
-
-ifile = "response_cleaned.json"
+URL_BASE = 'https://foia.state.gov/searchapp/'
 
 
-# In[21]:
+def main():
 
-with open(ifile) as f:
-    data = json.load(f)
+    args = parse_options()
+    ifile = args.json_results
+    out_dir = args.out_dir
 
+    with open(ifile) as f:
+        data = json.load(f)
 
-# In[22]:
+    print "Retrieving %s pdfs..." % len(data['Results'])
 
-len(data['Results'])
-
-
-# In[16]:
-
-ifile = "cleaned_7945.json"
-
-
-# In[17]:
-
-with open(ifile) as f:
-    data = json.load(f)
-
-
-# In[18]:
-
-len(data['Results'])
+    for r in data['Results']:
+        url = URL_BASE + r['pdfLink']
+        pdfname = out_dir + '/' + os.path.basename(r['pdfLink'])
+        if not os.path.isfile(pdfname):
+            print "Retrieving %s -> %s" % (url, pdfname)
+            urllib.urlretrieve(url, pdfname)
+        else:
+            print "Already exists %s" % pdfname
 
 
-# In[24]:
+def parse_options():
+     parser = argparse.ArgumentParser(description='Download Clinton email PDFs')
+     parser.add_argument('-j', '--json_results', dest='json_results', action="store", metavar="FILE", required=True)
+     parser.add_argument('-o', '--out_dir', dest='out_dir', action="store", metavar="DIR", required=True)
 
-url_base = 'https://foia.state.gov/searchapp/'
+     return parser.parse_args()
 
-
-# In[29]:
-
-for r in data['Results']:
-    url = url_base + r['pdfLink']
-    pdfname = 'data/' + os.path.basename(r['pdfLink'])
-    if not os.path.isfile(pdfname):
-        print "Retrieving %s -> %s" % (url, pdfname)
-        urllib.urlretrieve(url, pdfname)
-    else:
-        print "Already exists %s" % pdfname
-
-
-# In[ ]:
-
+if __name__ == '__main__':
+    main()
 
 
