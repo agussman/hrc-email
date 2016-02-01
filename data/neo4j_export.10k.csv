@@ -1,4 +1,4 @@
-LOWER(TRIM(From.name)),Sent.timestamp,LOWER(TRIM(To.name))
+From,Sent,To
 "williams, aaron [mailtc",0200-06-04T16:58:00,"mills, cheryl d"
 [mailto,0200-06-05T11:11:00,"mi is, cheryl d"
 thomas f. mclarty [mailto,0201-03-24T10:24:00,"mills, cheryl d"
