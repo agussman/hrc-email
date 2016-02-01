@@ -1,984 +1,1001 @@
-From,Sent,To
-"{""name"":""Williams, Aaron [mailtc""}","{""timestamp"":""0200-06-04T16:58:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""[mailto""}","{""timestamp"":""0200-06-05T11:11:00""}","{""name"":""Mi Is, Cheryl D""}"
-"{""name"":""Thomas F. McLarty [mailto""}","{""timestamp"":""0201-03-24T10:24:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""0201-05-27T19:17:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""0201-05-27T19:17:00""}","{""name"":""'preines""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""0201-11-23T00:00:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""0201-11-23T00:00:00""}","{""name"":""lake.sullivan""}"
-"{""name"":""Robert Maguire [mailto:""}","{""timestamp"":""0203-01-24T10:57:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""0279-06-13T13:41:10""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Rubiner, Laurie""}","{""timestamp"":""1009-07-31T13:26:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Rubiner, Laurie""}","{""timestamp"":""1009-07-31T13:26:00""}","{""name"":""hdr22@clintonemail.com""}"
-"{""name"":""Rubiner, Laurie""}","{""timestamp"":""1009-07-31T13:26:00""}","{""name"":""preines               pverveer""}"
-"{""name"":""dgoldwyn""}","{""timestamp"":""1009-08-05T13:17:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""dgoldwyn""}","{""timestamp"":""1009-08-05T13:17:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""dgoldwyn""}","{""timestamp"":""1009-08-05T13:17:00""}","{""name"":""Reines, Philippe I""}"
-"{""name"":""dgoldwyn""}","{""timestamp"":""1009-08-05T13:17:00""}","{""name"":""Crowley, Philip J""}"
-"{""name"":""Penn Rhodeen""}","{""timestamp"":""2008-11-21T10:31:00""}","{""name"":""Hillary Clinton""}"
-"{""name"":""H [mailto: hdr22@clintonemail.com ]""}","{""timestamp"":""2009-03-12T22:14:00""}","{""name"":""Huma Abedin""}"
-"{""name"":""H [mailto: hdr22@clintonemail.com ]""}","{""timestamp"":""2009-03-12T22:14:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""H [mailto: hdr22@clintonemail.com ]""}","{""timestamp"":""2009-03-12T22:14:00""}","{""name"":""Otero, Mildred ( Clinton )""}"
-"{""name"":""Otero, Mildred ( Clinton ) [mailto:Mildred_Otero@clinton.senate.gov]""}","{""timestamp"":""2009-03-13T14:29:00""}","{""name"":""Huma Abedin""}"
-"{""name"":""Otero, Mildred ( Clinton ) [mailto:Mildred_Otero@clinton.senate.gov]""}","{""timestamp"":""2009-03-13T14:29:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Otero, Mildred ( Clinton ) [mailto:Mildred_Otero@clinton.senate.gov]""}","{""timestamp"":""2009-03-13T14:29:00""}","{""name"":""hdr22@clintonemailcom""}"
-"{""name"":""Ruckman, Kathleen S""}","{""timestamp"":""2009-03-13T17:35:54""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Cheryl Mills[                                                                                                B6""}","{""timestamp"":""2009-03-13T23:47:59""}","{""name"":""Huma Abedin""}"
-"{""name"":""Cheryl Mills[                                                                                                B6""}","{""timestamp"":""2009-03-13T23:47:59""}","{""name"":""Otero, Mildred (Clinton)""}"
-"{""name"":""Cheryl Mills[                                                                                                B6""}","{""timestamp"":""2009-03-13T23:47:59""}","{""name"":""heather.samuelson                     Laura Pena                                                  B6""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-16T05:54:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-16T05:54:00""}","{""name"":""Samuelson, Heather F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-16T05:54:00""}","{""name"":""Pena, Laura""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-16T05:54:00""}","{""name"":""Ruckman, Kathleen S""}"
-"{""name"":""Ruckman, Kathleen S""}","{""timestamp"":""2009-03-16T08:49:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ruckman, Kathleen S""}","{""timestamp"":""2009-03-16T08:49:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Ruckman, Kathleen S""}","{""timestamp"":""2009-03-16T08:49:00""}","{""name"":""Samuelson, Heather F""}"
-"{""name"":""Ruckman, Kathleen S""}","{""timestamp"":""2009-03-16T08:49:00""}","{""name"":""Peria, Laura""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-16T10:36:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-16T10:36:00""}","{""name"":""Ruckman, Kathleen S""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-17T08:00:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-03-17T08:00:00""}","{""name"":""Ruckman, Kathleen S""}"
-"{""name"":""Ruckman, Kathleen S""}","{""timestamp"":""2009-03-17T08:59:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ruckman, Kathleen S""}","{""timestamp"":""2009-03-17T08:59:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov >""}","{""timestamp"":""2009-03-19T12:24:00""}","{""name"":""H""}"
-"{""name"":""Josh Kardon <jrkardon(""}","{""timestamp"":""2009-03-19T17:20:15""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Josh Kardon <jrkardon(""}","{""timestamp"":""2009-03-19T17:20:15""}","{""name"":""Cheryl Mills <cheryl.mills""}"
-"{""name"":""Cheryl Mills [mailto:cmills""}","{""timestamp"":""2009-03-19T18:56:00""}","{""name"":""jrkardon              cheryl.mills""}"
-"{""name"":""Cheryl Mills <cheryLmill5""}","{""timestamp"":""2009-03-20T06:02:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills [mailto:cheryl.mills""}","{""timestamp"":""2009-03-20T06:02:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Cheryl Mills [mailto:cheryl.mills""}","{""timestamp"":""2009-03-20T06:02:00""}","{""name"":""Coleman, Claire L""}"
-"{""name"":""Cheryl Mills <cheryLmill5""}","{""timestamp"":""2009-03-20T06:02:00""}","{""name"":""'Abedin, Huma'""}"
-"{""name"":""Cheryl Mills <cheryLmill5""}","{""timestamp"":""2009-03-20T06:02:00""}","{""name"":""'Coleman, Claire L'""}"
-"{""name"":""Cheryl Mills [mailto:cheryl.mills""}","{""timestamp"":""2009-03-20T06:02:00""}","{""name"":""hdr22(aclintonemail.com""}"
-"{""name"":""Pamela Starr                                                                                           B6""}","{""timestamp"":""2009-03-20T14:38:00""}","{""name"":""Gonzalez, Francisco""}"
-"{""name"":""Reines, Philippe I (PACE) <ReinesPI@state.gov>""}","{""timestamp"":""2009-03-21T11:21:00""}","{""name"":""H""}"
-"{""name"":""Reines, Philippe I (PACE) <ReinesPI@state.gov>""}","{""timestamp"":""2009-03-21T11:21:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""jake.sullivan""}","{""timestamp"":""2009-03-21T16:09:00""}","{""name"":""H""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-03-21T18:18:38""}","{""name"":""Valmoro, Lona J""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-03-21T18:18:38""}","{""name"":""Huma Abedin <""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-03-21T19:13:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-03-21T19:13:00""}","{""name"":""HAbedin""}"
-"{""name"":""NOBLE Ronald""}","{""timestamp"":""2009-03-22T18:50:59""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Cheryl Mills [mailto.""}","{""timestamp"":""2009-03-22T23:56:00""}","{""name"":""Cheryl Mills1""}"
-"{""name"":""Cheryl Mills [mailto.""}","{""timestamp"":""2009-03-22T23:56:00""}","{""name"":""NOBLE Ronald""}"
-"{""name"":""Cheryl Mills [mailto.""}","{""timestamp"":""2009-03-22T23:56:00""}","{""name"":""millscd@state.gov""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-03-23T19:39:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-03-23T19:39:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Sullivan, Jacob J <Sullivann@state.gov>""}","{""timestamp"":""2009-03-23T22:00:00""}","{""name"":""H""}"
-"{""name"":""Sullivan, Jacob J <Sullivann@state.gov>""}","{""timestamp"":""2009-03-23T22:00:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H [mailto:hdr22@clintonemail.com]""}","{""timestamp"":""2009-03-23T22:09:00""}","{""name"":""Sullivan, Jacob 3•""}"
-"{""name"":""Sullivan, Jacob J <SullivanJJ©state.gov>""}","{""timestamp"":""2009-03-23T22:12:00""}","{""name"":""H""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-03-25T00:01:54""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-03-25T00:01:54""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-03-25T08:08:01""}","{""name"":""Valmoro, Lona J""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-03-25T08:08:01""}","{""name"":""Huma Abedin <""}"
-"{""name"":""Valmoro, Lona J <ValmoroLJ@state.gov>""}","{""timestamp"":""2009-03-25T08:09:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona J <ValmoroLJ@state.gov>""}","{""timestamp"":""2009-03-25T08:09:00""}","{""name"":""HAbedin""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-25T10:33:00""}","{""name"":""H""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-03-25T14:03:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-03-25T15:10:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Alexander, Diane""}","{""timestamp"":""2009-03-25T17:30:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Alexander, Diane""}","{""timestamp"":""2009-03-25T17:30:00""}","{""name"":""Coleman, Claire L""}"
-"{""name"":""Alexander, Diane""}","{""timestamp"":""2009-03-25T17:30:00""}","{""name"":""Crocker, Bathsheba N""}"
-"{""name"":""Alexander, Diane""}","{""timestamp"":""2009-03-25T17:30:00""}","{""name"":""Campbell, Piper A""}"
-"{""name"":""Alexander, Diane""}","{""timestamp"":""2009-03-25T17:30:00""}","{""name"":""McLean, Lori A""}"
-"{""name"":""Alexander, Diane""}","{""timestamp"":""2009-03-25T17:30:00""}","{""name"":""Lavy, Brendan L""}"
-"{""name"":""Toiv, Nora F""}","{""timestamp"":""2009-03-25T18:03:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-25T18:06:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-03-25T18:08:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-25T18:28:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-25T18:32:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-25T18:32:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-25T18:32:00""}","{""name"":""Cue, Lourdes C""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-25T18:39:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills <cheryl.mill                                                              B6""}","{""timestamp"":""2009-03-26T07:04:00""}","{""name"":""H""}"
-"{""name"":""Villarreal, Jose""}","{""timestamp"":""2009-03-26T10:30:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Villarreal, Jose""}","{""timestamp"":""2009-03-26T10:30:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Villarreal, Jose""}","{""timestamp"":""2009-03-26T10:30:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Diane Reynolds""}","{""timestamp"":""2009-03-26T10:34:29-04:00""}","{""name"":""<hdr22@c1intonemail.com>""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC©state.gov >""}","{""timestamp"":""2009-03-26T11:04:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills                                                                    B6""}","{""timestamp"":""2009-03-26T11:25:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills                                                                    B6""}","{""timestamp"":""2009-03-26T11:25:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Cheryl Mills <cheryl.mills""}","{""timestamp"":""2009-03-26T11:25:02""}","{""name"":""Sullivan, Jacob""}"
-"{""name"":""Cheryl Mills <cheryl.mills""}","{""timestamp"":""2009-03-26T11:25:02""}","{""name"":""Sullivan, Jacob""}"
-"{""name"":""Cheryl Mills <cheryl.mills""}","{""timestamp"":""2009-03-26T11:25:02""}","{""name"":""hdr22@clintonemail.com <hdr22@clintonemail.com>""}"
-"{""name"":""Cheryl Mills <cheryl.mills""}","{""timestamp"":""2009-03-26T11:25:02""}","{""name"":""hdr22@clintonemail.com <hdr22@clintonemail.com>""}"
-"{""name"":""Sullivan, Jacob J <SullivanJJ@state.gov>""}","{""timestamp"":""2009-03-26T11:34:00""}","{""name"":""cheryl.mills""}"
-"{""name"":""Hrc New""}","{""timestamp"":""2009-03-26T12:18:00""}","{""name"":""Hrc New""}"
-"{""name"":""cheryl.mills                                                                  B6""}","{""timestamp"":""2009-03-26T12:21:00""}","{""name"":""H""}"
-"{""name"":""cheryl.mills                                                                  B6""}","{""timestamp"":""2009-03-26T12:21:00""}","{""name"":""Jake Sullivan""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-03-26T18:45:35""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-03-26T18:45:35""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-03-26T18:51:00""}","{""name"":""H""}"
-"{""name"":""Toiv, Nora F""}","{""timestamp"":""2009-03-27T12:07:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-03-27T12:53:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-03-27T12:53:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-27T13:51:00""}","{""name"":""H""}"
-"{""name"":""Pamela Starr""}","{""timestamp"":""2009-03-27T15:33:00""}","{""name"":""Gonzalez, Francisco 3""}"
-"{""name"":""H <hdr22@clintonemail.com >""}","{""timestamp"":""2009-03-27T21:02:04""}","{""name"":""Neera Tanden""}"
-"{""name"":""Neera Tanden                                                          B6""}","{""timestamp"":""2009-03-28T00:37:00""}","{""name"":""H""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-03-28T09:56:08""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-28T12:17:00""}","{""name"":""H""}"
-"{""name"":""Ann O'Leary""}","{""timestamp"":""2009-03-29T01:41:11""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Ann O'Leary""}","{""timestamp"":""2009-03-29T01:41:11""}","{""name"":""Cheryl Millsl""}"
-"{""name"":""Sullivan, Jacob J <SullivanJJ@state.gov>""}","{""timestamp"":""2009-03-29T11:37:00""}","{""name"":""H""}"
-"{""name"":""Sullivan, Jacob J <SullivanJJ@state.gov>""}","{""timestamp"":""2009-03-29T11:37:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Sullivan, Jacob J <SullivanJJ@state.gov>""}","{""timestamp"":""2009-03-29T11:37:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Sullivan, Jacob J <SullivanJJ@state.gov>""}","{""timestamp"":""2009-03-29T11:37:00""}","{""name"":""Cheryl Millsl""}"
-"{""name"":""H [mailto:hdr22@clintonemail.com]""}","{""timestamp"":""2009-03-29T13:08:00""}","{""name"":""Sullivan, Jacob)""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-03-29T13:08:39""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Steinberg, James B <SteinbergJB@state.gov>""}","{""timestamp"":""2009-03-29T13:10:00""}","{""name"":""H""}"
-"{""name"":""Sullivan, Jacob J <SullivanJJ@state.gov>""}","{""timestamp"":""2009-03-29T13:12:00""}","{""name"":""H""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-03-29T14:11:59""}","{""name"":""Jiloty, Lauren C""}"
-"{""name"":""Jackie Newmyer""}","{""timestamp"":""2009-03-29T15:44:00""}","{""name"":""H""}"
-"{""name"":""Jackie Newmyer                                                           B6""}","{""timestamp"":""2009-03-29T15:52:00""}","{""name"":""H""}"
-"{""name"":""Stern, Todd D (S/SECC)""}","{""timestamp"":""2009-03-29T19:31:21""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Stern, Todd D (S/SECC)""}","{""timestamp"":""2009-03-29T19:31:21""}","{""name"":""Sullivan, Jacobi""}"
-"{""name"":""Stern, Todd D (S/SECC)""}","{""timestamp"":""2009-03-29T19:31:21""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Stern, Todd D (S/SECC)""}","{""timestamp"":""2009-03-29T19:31:21""}","{""name"":""Lew, Jacob""}"
-"{""name"":""PVerveer""}","{""timestamp"":""2009-03-29T19:57:00""}","{""name"":""H""}"
-"{""name"":""jake.sullivan                                               B6""}","{""timestamp"":""2009-03-30T05:19:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-03-30T05:30:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-03-30T05:30:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Hooker, Allison M""}","{""timestamp"":""2009-03-30T14:03:00""}","{""name"":""Arvizu, Alex A""}"
-"{""name"":""Hooker, Allison M""}","{""timestamp"":""2009-03-30T14:03:00""}","{""name"":""Kim, Sung Y""}"
-"{""name"":""Hooker, Allison M""}","{""timestamp"":""2009-03-30T14:03:00""}","{""name"":""EAP-K-DPRK-UNIT-DL""}"
-"{""name"":""Hooker, Allison M""}","{""timestamp"":""2009-03-30T14:03:00""}","{""name"":""Kim, Yuri J""}"
-"{""name"":""Jackie Newmyer                                                            B6""}","{""timestamp"":""2009-03-30T15:38:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-03-30T15:53:00""}","{""name"":""H""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""S_SpecialAssistants""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Smith, Daniel B""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Crocker, Bathsheba N""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Park, Pamela P""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Tesone, Mark""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Davies, Glyn T""}"
-"{""name"":""Arvizu, Alex A""}","{""timestamp"":""2009-03-30T19:11:00""}","{""name"":""Jacobs, Janice L""}"
-"{""name"":""Bishop, Christopher W""}","{""timestamp"":""2009-03-30T19:12:55""}","{""name"":""S""}"
-"{""name"":""Bishop, Christopher W""}","{""timestamp"":""2009-03-30T19:12:55""}","{""name"":""Wood, Robert A (PACE)""}"
-"{""name"":""Barks-Ruggles, Erica 3""}","{""timestamp"":""2009-03-30T20:55:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Barks-Ruggles, Erica""}","{""timestamp"":""2009-03-30T20:55:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Barks-Ruggles, Erica 3""}","{""timestamp"":""2009-03-30T20:55:00""}","{""name"":""Anderson, Brooke D (USUN)""}"
-"{""name"":""Barks-Ruggles, Erica""}","{""timestamp"":""2009-03-30T20:55:00""}","{""name"":""Anderson, Brooke D (USUN)""}"
-"{""name"":""Barks-Ruggles, Erica 3""}","{""timestamp"":""2009-03-30T20:55:00""}","{""name"":""Simon, Jennifer 3""}"
-"{""name"":""Barks-Ruggles, Erica""}","{""timestamp"":""2009-03-30T20:55:00""}","{""name"":""Simon, Jennifer )""}"
-"{""name"":""Simon, Jennifer J""}","{""timestamp"":""2009-03-30T21:03:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Simon, Jennifer 3""}","{""timestamp"":""2009-03-30T21:03:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Simon, Jennifer J""}","{""timestamp"":""2009-03-30T21:03:00""}","{""name"":""Anderson, Brooke D (USUN)""}"
-"{""name"":""Simon, Jennifer 3""}","{""timestamp"":""2009-03-30T21:03:00""}","{""name"":""Anderson, Brooke D (USUN)""}"
-"{""name"":""Simon, Jennifer J""}","{""timestamp"":""2009-03-30T21:03:00""}","{""name"":""Barks-Ruggles, Erica J""}"
-"{""name"":""Simon, Jennifer 3""}","{""timestamp"":""2009-03-30T21:03:00""}","{""name"":""Barks-Ruggles, Erica 3""}"
-"{""name"":""Simon, Jennifer J""}","{""timestamp"":""2009-03-30T21:06:24""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Simon, Jennifer 3""}","{""timestamp"":""2009-03-30T21:06:24""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Simon, Jennifer J""}","{""timestamp"":""2009-03-30T21:06:24""}","{""name"":""Anderson, Brooke D (USUN)""}"
-"{""name"":""Simon, Jennifer 3""}","{""timestamp"":""2009-03-30T21:06:24""}","{""name"":""Anderson, Brooke D (USUN)""}"
-"{""name"":""Simon, Jennifer J""}","{""timestamp"":""2009-03-30T21:06:24""}","{""name"":""Barks-Ruggles, Erica J""}"
-"{""name"":""Simon, Jennifer 3""}","{""timestamp"":""2009-03-30T21:06:24""}","{""name"":""Barks-Ruggles, Erica 3""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-03-31T04:25:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-03-31T04:25:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-03-31T04:25:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-03-31T04:50:00""}","{""name"":""H""}"
-"{""name"":""H""}","{""timestamp"":""2009-03-31T06:13:26""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""H""}","{""timestamp"":""2009-03-31T06:13:26""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H""}","{""timestamp"":""2009-03-31T06:13:26""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H""}","{""timestamp"":""2009-03-31T06:13:26""}","{""name"":""hdr22@clintonemail.com""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-03-31T06:14:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-03-31T06:14:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-03-31T06:14:00""}","{""name"":""Sullivan, Jacobi""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-03-31T09:03:26""}","{""name"":""Greene, Richard L""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-03-31T09:03:26""}","{""name"":""Shah, Khushali P""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-03-31T09:03:26""}","{""name"":""Hoyle, Peggy A""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-03-31T09:03:26""}","{""name"":""F Global-Functional""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-03-31T09:03:26""}","{""name"":""Warren, Wade""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-03-31T14:05:00""}","{""name"":""H""}"
-"{""name"":""PoIt, Michael C""}","{""timestamp"":""2009-03-31T14:46:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""PoIt, Michael C""}","{""timestamp"":""2009-03-31T14:46:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""PoIt, Michael C""}","{""timestamp"":""2009-03-31T14:46:00""}","{""name"":""Macmanus, Joseph E""}"
-"{""name"":""PoIt, Michael C""}","{""timestamp"":""2009-03-31T14:46:00""}","{""name"":""'Verma, Richard'""}"
-"{""name"":""PoIt, Michael C""}","{""timestamp"":""2009-03-31T14:46:00""}","{""name"":""Shapiro, Andrew J""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-03-31T16:02:00""}","{""name"":""H""}"
-"{""name"":""Einhorn, Robert 3""}","{""timestamp"":""2009-03-31T18:07:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Einhorn, Robert 3""}","{""timestamp"":""2009-03-31T18:07:00""}","{""name"":""""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-04-01T05:33:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-04-01T05:33:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""sobelcm                                                                                                  B6.""}","{""timestamp"":""2009-04-01T06:10:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-01T07:58:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-01T07:58:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H [mailto:hdr22clintonemail.com]""}","{""timestamp"":""2009-04-01T08:04:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""S_SpecialAssistants""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""Macmanus, Joseph E""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""McLean, Lori A""}"
-"{""name"":""Fogarty, Daniel J""}","{""timestamp"":""2009-04-01T09:11:00""}","{""name"":""Reines, Philippe I (PACE)""}"
-"{""name"":""Whitaker, Kevin M""}","{""timestamp"":""2009-04-01T09:24:00""}","{""name"":""SES_4""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T11:42:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T11:51:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-01T11:56:12""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-01T11:56:12""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-01T11:56:12""}","{""name"":""Burns, William 3""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-01T11:56:12""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T11:59:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T12:01:00""}","{""name"":""H""}"
-"{""name"":""Steinberg, James B""}","{""timestamp"":""2009-04-01T12:03:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Steinberg, James B""}","{""timestamp"":""2009-04-01T12:03:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Steinberg, James B""}","{""timestamp"":""2009-04-01T12:03:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Steinberg, James B""}","{""timestamp"":""2009-04-01T12:03:00""}","{""name"":""Burns, William 3""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T12:11:00""}","{""name"":""H""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T14:22:00""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T14:22:00""}","{""name"":""Greene, Richard L""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T14:22:00""}","{""name"":""Shah, Khushali P""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T14:22:00""}","{""name"":""Hoyle, Peggy A""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T14:22:00""}","{""name"":""Retzlaff, Barbara A""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T14:22:00""}","{""name"":""Dietz, Steve""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T14:22:00""}","{""name"":""Jacobs,""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T16:18:00""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T16:18:00""}","{""name"":""Greene, Richard L""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T16:18:00""}","{""name"":""Hall, Lydia S""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T16:18:00""}","{""name"":""Shah, Khushali P""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T16:18:00""}","{""name"":""Hoyle, Peggy A""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T16:18:00""}","{""name"":""Retzlaff, Barbara A""}"
-"{""name"":""Hall, Lydia S""}","{""timestamp"":""2009-04-01T16:18:00""}","{""name"":""Dietz,""}"
-"{""name"":""Greene, Richard L""}","{""timestamp"":""2009-04-01T16:32:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Greene, Richard L""}","{""timestamp"":""2009-04-01T16:32:00""}","{""name"":""Lew, Jacob J""}"
-"{""name"":""Bishop, Christopher W""}","{""timestamp"":""2009-04-01T16:40:00""}","{""name"":""S""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T16:44:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T16:45:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-01T16:45:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-04-01T18:13:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-04-01T18:13:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-04-01T18:13:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-04-01T18:13:00""}","{""name"":""'mvwcarpenter               Toiv, Nora F""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-02T01:33:20""}","{""name"":""Valmoro, Lona J""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov >""}","{""timestamp"":""2009-04-02T06:03:00""}","{""name"":""H""}"
-"{""name"":""H [mailto:hdr22@clintonemail.com]""}","{""timestamp"":""2009-04-02T11:26:00""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Steinberg, James B <SteinbergJB@state.gov>""}","{""timestamp"":""2009-04-02T12:32:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-02T13:08:52""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-02T13:08:52""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-02T13:08:52""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-02T13:08:52""}","{""name"":""McDonough, Denis R.""}"
-"{""name"":""McDonough, Denis R. [mailto:""}","{""timestamp"":""2009-04-02T13:13:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""McDonough, Denis R. [mailto:""}","{""timestamp"":""2009-04-02T13:13:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""McDonough, Denis R. [mailto:""}","{""timestamp"":""2009-04-02T13:13:00""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""McDonough, Denis R. [mailto:""}","{""timestamp"":""2009-04-02T13:13:00""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-02T13:21:00""}","{""name"":""H""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-03T00:46:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-03T00:46:00""}","{""name"":""Sullivan, Jacobi""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-03T00:46:00""}","{""name"":""Samuelson, Heather F""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-03T00:46:00""}","{""name"":""Shapiro, Andrew J""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-03T00:46:00""}","{""name"":""Pella, Laura""}"
-"{""name"":""Cherie Blair""}","{""timestamp"":""2009-04-03T10:08:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-03T11:55:00""}","{""name"":""H""}"
-"{""name"":""Cherie Blair""}","{""timestamp"":""2009-04-03T12:11:00""}","{""name"":""H""}"
-"{""name"":""Donoghue, Joan E""}","{""timestamp"":""2009-04-03T12:27:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Donoghue, Joan E""}","{""timestamp"":""2009-04-03T12:27:00""}","{""name"":""Crocker, Bathsheba N""}"
-"{""name"":""Donoghue, Joan E""}","{""timestamp"":""2009-04-03T12:27:00""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Donoghue, Joan E""}","{""timestamp"":""2009-04-03T12:27:00""}","{""name"":""Spector, Phillip M""}"
-"{""name"":""Donoghue, Joan E""}","{""timestamp"":""2009-04-03T12:27:00""}","{""name"":""Deeks, Ashley S""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-03T16:56:00""}","{""name"":""Cherie Blair                                                                                                               B6""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-03T17:32:00""}","{""name"":""H""}"
-"{""name"":""H [mailto:hdr22@clintonemail.com]""}","{""timestamp"":""2009-04-03T18:43:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H [mailto:hdr22@clintonemail.com]""}","{""timestamp"":""2009-04-03T18:43:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov > •""}","{""timestamp"":""2009-04-03T18:45:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov > •""}","{""timestamp"":""2009-04-03T18:45:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Cherie Blair                                                             B6""}","{""timestamp"":""2009-04-04T07:46:00""}","{""name"":""H""}"
-"{""name"":""Nicholas Blair [mailto""}","{""timestamp"":""2009-04-04T12:02:00""}","{""name"":""Cherie Blair""}"
-"{""name"":""Rice, Susan E (USUN) [mailto:RiceSE@state.gov]""}","{""timestamp"":""2009-04-04T15:08:00""}","{""name"":""cheryl.mills""}"
-"{""name"":""Rice, Susan E (USUN) [mailto:RiceSE@state.gov]""}","{""timestamp"":""2009-04-04T15:08:00""}","{""name"":""cmills@state.gov""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-04T15:40:08""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-04T15:40:08""}","{""name"":""Cheryl Mills <""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-04T15:42:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-04T15:42:00""}","{""name"":""cmills""}"
-"{""name"":""Shannon, Thomas A""}","{""timestamp"":""2009-04-04T16:20:38""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Cheryl Mills""}","{""timestamp"":""2009-04-04T16:24:59""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Cheryl Mills""}","{""timestamp"":""2009-04-04T16:24:59""}","{""name"":""Rice, Susan E (USUN)""}"
-"{""name"":""Cheryl Mills""}","{""timestamp"":""2009-04-04T16:24:59""}","{""name"":""cmills@state.gov""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-04T23:18:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-05T06:21:00""}","{""name"":""H""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Kelly, Craig A""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Muscatine, Lissa""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Shannon, Thomas A""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-05T17:01:00""}","{""name"":""Davidow, Jeffrey S""}"
-"{""name"":""Tom Freedman [mailto""}","{""timestamp"":""2009-04-05T21:45:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""jake.sullivan""}","{""timestamp"":""2009-04-05T22:19:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills <""}","{""timestamp"":""2009-04-06T05:06:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills <""}","{""timestamp"":""2009-04-06T05:06:00""}","{""name"":""williamsbarret1         Sullivan, Jacob J'""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-06T05:33:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-06T05:38:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-06T05:38:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-06T05:38:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-06T05:38:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-04-06T05:40:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-06T05:43:00""}","{""name"":""H""}"
-"{""name"":""H [mailto:hdr22@clintonemail.com]""}","{""timestamp"":""2009-04-06T06:08:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-06T07:36:00""}","{""name"":""H""}"
-"{""name"":""Bloom, Evan T (OES)""}","{""timestamp"":""2009-04-06T14:32:00""}","{""name"":""Rooney, Megan""}"
-"{""name"":""Bloom, Evan T (OES)""}","{""timestamp"":""2009-04-06T14:32:00""}","{""name"":""Rooney, Megan""}"
-"{""name"":""Bloom, Evan T (OES)""}","{""timestamp"":""2009-04-06T14:32:00""}","{""name"":""Rooney, Megan""}"
-"{""name"":""Rooney, Megan""}","{""timestamp"":""2009-04-06T14:47:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Rooney, Megan""}","{""timestamp"":""2009-04-06T14:47:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-06T15:05:31""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-06T15:05:31""}","{""name"":""Rooney, Megan""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-06T15:06:00""}","{""name"":""H""}"
-"{""name"":""Mildred Otero""}","{""timestamp"":""2009-04-06T16:41:25""}","{""name"":""""}"
-"{""name"":""Mildred Otero""}","{""timestamp"":""2009-04-06T16:41:25""}","{""name"":""Pena, Laura""}"
-"{""name"":""Mildred Otero""}","{""timestamp"":""2009-04-06T16:41:25""}","{""name"":""Mills, Cheryl D                                                                    B6""}"
-"{""name"":""Sullivan, Jacob 3""}","{""timestamp"":""2009-04-06T16:55:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Sullivan, Jacob 3""}","{""timestamp"":""2009-04-06T16:55:00""}","{""name"":""Rooney, Megan""}"
-"{""name"":""Rooney, Megan""}","{""timestamp"":""2009-04-06T17:03:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Rooney, Megan""}","{""timestamp"":""2009-04-06T17:03:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-06T20:00:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""newmyer               on behalf of Jackie Newmyer <newmyer""}","{""timestamp"":""2009-04-06T21:50:00""}","{""name"":""H""}"
-"{""name"":""Jackie Newmyer""}","{""timestamp"":""2009-04-06T21:50:29-04:00""}","{""name"":""<hdr22@clintonemail.com>""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-07T06:17:00""}","{""name"":""H""}"
-"{""name"":""H [mailto:hdr22(aclintonemail.com]""}","{""timestamp"":""2009-04-07T07:25:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-07T07:55:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-07T07:57:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-08T05:02:00""}","{""name"":""H""}"
-"{""name"":""newmyer""}","{""timestamp"":""2009-04-08T07:42:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-04-08T17:52:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-04-08T17:52:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC©state.goy>""}","{""timestamp"":""2009-04-08T19:23:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC©state.goy>""}","{""timestamp"":""2009-04-08T19:23:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H [mailto:hdr22clintonemail.com]""}","{""timestamp"":""2009-04-08T19:54:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-08T20:55:00""}","{""name"":""H""}"
-"{""name"":""Froman, Michael B. [mailto:""}","{""timestamp"":""2009-04-09T05:14:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-09T07:35:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-09T21:19:00""}","{""name"":""H""}"
-"{""name"":""Hrc New""}","{""timestamp"":""2009-04-09T21:19:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-09T21:42:00""}","{""name"":""H""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-10T07:50:00""}","{""name"":""H""}"
-"{""name"":""H <hdr22Pclintonemail.com >""}","{""timestamp"":""2009-04-10T07:50:33""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hdr22Pclintonemail.com >""}","{""timestamp"":""2009-04-10T07:50:33""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-10T07:55:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-10T07:55:00""}","{""name"":""cheryl.mills""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-10T12:14:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-04-10T18:26:00""}","{""name"":""Hillary Clinton""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-10T18:28:59""}","{""name"":""Abed in, Huma""}"
-"{""name"":""Abed in, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-10T19:15:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills""}","{""timestamp"":""2009-04-11T13:36:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills <cheryl.milk                                                              B6""}","{""timestamp"":""2009-04-11T14:00:00""}","{""name"":""'Cheryl Mills'""}"
-"{""name"":""Sullivan, Jacob 3""}","{""timestamp"":""2009-04-11T14:24:55""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H""}","{""timestamp"":""2009-04-11T18:08:43""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-11T18:11:00""}","{""name"":""H""}"
-"{""name"":""jake.sullivan""}","{""timestamp"":""2009-04-11T18:19:00""}","{""name"":""H""}"
-"{""name"":""H""}","{""timestamp"":""2009-04-11T18:19:00""}","{""name"":""Jake Sullivan""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-11T18:24:00""}","{""name"":""H""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-11T18:24:00""}","{""name"":""H""}"
-"{""name"":""jake.sullivar,""}","{""timestamp"":""2009-04-11T18:40:00""}","{""name"":""H""}"
-"{""name"":""jake.sullivar""}","{""timestamp"":""2009-04-11T18:56:00""}","{""name"":""H""}"
-"{""name"":""Brimmer, Esther D""}","{""timestamp"":""2009-04-12T01:24:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Barbara Mikulski""}","{""timestamp"":""2009-04-12T12:03:00""}","{""name"":""Hillary Clinton""}"
-"{""name"":""Barbara Mikulski""}","{""timestamp"":""2009-04-12T12:03:00""}","{""name"":""Hillary Clinton""}"
-"{""name"":""Hrc New""}","{""timestamp"":""2009-04-12T13:30:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-12T13:31:00""}","{""name"":""H""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-12T13:35:04""}","{""name"":""Mikulski, BAM (Mikulski)""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-12T13:35:04""}","{""name"":""Mikulski, BAM (Mikulski)""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-12T16:22:00""}","{""name"":""H""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-12T16:22:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Mikulski, BAM (Mikulski) <BAM@Mikulski.senate.gov >""}","{""timestamp"":""2009-04-12T18:53:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-12T20:50:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-12T20:50:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-12T20:50:00""}","{""name"":""cheryl.mills""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-12T21:12:00""}","{""name"":""H""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-13T07:09:00""}","{""name"":""Bill Burns <wburns66""}"
-"{""name"":""H <hdr22@clintonemail.com>""}","{""timestamp"":""2009-04-13T07:11:15""}","{""name"":""Mikulski, BAM (Mikulski)""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-13T07:14:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-13T08:13:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-13T08:13:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-13T08:13:05""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-13T08:13:05""}","{""name"":""Abedin, Huma <AbedinH@state.gov>""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-13T08:42:00""}","{""name"":""H""}"
-"{""name"":""Mikulski, BAM (Mikulski) <BAM@Mikulski.senate.gov >""}","{""timestamp"":""2009-04-13T08:57:00""}","{""name"":""H""}"
-"{""name"":""Brooke Shearer""}","{""timestamp"":""2009-04-13T09:29:00""}","{""name"":""hdr22@clintonemail.com""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-13T11:09:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-13T12:04:00""}","{""name"":""H""}"
-"{""name"":""wburns66""}","{""timestamp"":""2009-04-13T13:07:00""}","{""name"":""H""}"
-"{""name"":""Ilic, Werner X""}","{""timestamp"":""2009-04-13T14:46:00""}","{""name"":""Kabul LGF Request""}"
-"{""name"":""Nelson, David D""}","{""timestamp"":""2009-04-13T15:30:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Stremlau, Matthew H""}","{""timestamp"":""2009-04-13T15:44:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Stremlau, Matthew H""}","{""timestamp"":""2009-04-13T15:44:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Stremlau, Matthew H""}","{""timestamp"":""2009-04-13T15:44:00""}","{""name"":""Slaughter, Anne-Marie""}"
-"{""name"":""Ellen Tauscher""}","{""timestamp"":""2009-04-13T17:39:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher [mailto:""}","{""timestamp"":""2009-04-13T17:39:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher [mailto""}","{""timestamp"":""2009-04-13T17:39:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Jake Sullivan <jake.sullivar""}","{""timestamp"":""2009-04-13T18:38:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <jake.sullivar""}","{""timestamp"":""2009-04-13T18:38:00""}","{""name"":""Cheryl Millsl""}"
-"{""name"":""Robert Danford [mailto""}","{""timestamp"":""2009-04-14T13:05:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Lash, Fred C (PACE) [mailto:LashFC@state.gov]""}","{""timestamp"":""2009-04-14T13:57:00""}","{""name"":""PAO Group""}"
-"{""name"":""Lash, Fred C (PACE) [mailto:LashFC@state.gov]""}","{""timestamp"":""2009-04-14T13:57:00""}","{""name"":""PAO Group""}"
-"{""name"":""Lash, Fred C (PACE) [mailto:LashFC@state.gov]""}","{""timestamp"":""2009-04-14T13:57:00""}","{""name"":""PAO Group""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T14:02:00""}","{""name"":""H""}"
-"{""name"":""Crowley, Philip ]""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Crowley, Philip J""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Crowley, Philip""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Crowley, Philip""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Slaughter, Anne-Marie""}"
-"{""name"":""Crowley, Philip J""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Slaughter, Anne-Marie""}"
-"{""name"":""Crowley, Philip ]""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Slaughter, Anne-Marie""}"
-"{""name"":""Crowley, Philip""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Muscatine, Lissa""}"
-"{""name"":""Crowley, Philip J""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Muscatine, Lissa""}"
-"{""name"":""Crowley, Philip ]""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Muscatine, Lissa""}"
-"{""name"":""Crowley, Philip ]""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""ReinesPI""}"
-"{""name"":""Crowley, Philip J""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""ReinesPI""}"
-"{""name"":""Crowley, Philip""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""ReinesPI""}"
-"{""name"":""Crowley, Philip ]""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Kelly, Ian C""}"
-"{""name"":""Crowley, Philip J""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Kelly, Ian C""}"
-"{""name"":""Crowley, Philip""}","{""timestamp"":""2009-04-14T14:45:00""}","{""name"":""Kelly, Ian C""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-04-14T15:34:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-04-14T15:34:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Cue, Lourdes C""}","{""timestamp"":""2009-04-14T15:34:00""}","{""name"":""Muscatine, Lissa""}"
-"{""name"":""Jones, Kali C""}","{""timestamp"":""2009-04-14T16:44:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T17:30:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T17:30:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""Sullivan, Jacob)""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""'hdr22@clintonemail.com'""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-14T17:32:00""}","{""name"":""ihdr22@clintonemail.corni""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov >""}","{""timestamp"":""2009-04-14T19:00:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov >""}","{""timestamp"":""2009-04-14T19:00:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-04-14T19:00:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov >""}","{""timestamp"":""2009-04-14T19:00:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-04-14T19:00:00""}","{""name"":""Sullivan, Jacob)""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-04-14T19:00:00""}","{""name"":""ihdr22@clintonemail.comi""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T22:00:55""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T22:37:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T22:37:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T22:37:00""}","{""name"":""Verveer, Melanne S""}"
-"{""name"":""Lissa Muscatine""}","{""timestamp"":""2009-04-14T22:58:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T23:04:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-14T23:09:00""}","{""name"":""H""}"
-"{""name"":""Ellen Tauscher [mailto:""}","{""timestamp"":""2009-04-15T00:51:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher rmailto""}","{""timestamp"":""2009-04-15T00:51:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher [mailto""}","{""timestamp"":""2009-04-15T00:51:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher [mailto:""}","{""timestamp"":""2009-04-15T00:51:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""' Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-15T08:17:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-15T08:23:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Ellen Tauscher [mailto:""}","{""timestamp"":""2009-04-15T14:37:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher [mailto:""}","{""timestamp"":""2009-04-15T14:37:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher [mailto""}","{""timestamp"":""2009-04-15T14:37:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Pefia, Laura""}","{""timestamp"":""2009-04-15T14:59:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-15T15:46:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-15T15:49:00""}","{""name"":""H""}"
-"{""name"":""eotauscher                                                                                             B6""}","{""timestamp"":""2009-04-15T16:28:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""eotauscher""}","{""timestamp"":""2009-04-15T16:28:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Paul Collier""}","{""timestamp"":""2009-04-15T20:44:55""}","{""name"":""Sullivan, Jacob""}"
-"{""name"":""Paul Collier""}","{""timestamp"":""2009-04-15T20:44:55""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-15T22:51:52""}","{""name"":""Valmoro, Lona 1""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-15T22:51:52""}","{""name"":""'HAbedin""}"
-"{""name"":""Lissa Muscatine                                                          B6""}","{""timestamp"":""2009-04-15T23:51:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-16T06:12:35""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-16T06:13:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona 1 <ValmoroU@state.gov>""}","{""timestamp"":""2009-04-16T06:18:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona 1 <ValmoroU@state.gov>""}","{""timestamp"":""2009-04-16T06:18:00""}","{""name"":""HAbedin""}"
-"{""name"":""Ellen Tauscher [mailto""}","{""timestamp"":""2009-04-16T07:17:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Ellen Tauscher [mailto""}","{""timestamp"":""2009-04-16T07:17:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-16T08:01:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-16T08:21:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-16T08:21:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Pena, Laura""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Bisdee, Sharon C""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Hardy, Sharon L""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""'Marlon D Marshall'""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-04-16T09:37:00""}","{""name"":""Kennedy,""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-16T11:10:00""}","{""name"":""cmarshal""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-16T11:10:00""}","{""name"":""williamsbarrett           Minyon Moore""}"
-"{""name"":""Saif Khan [mailto:""}","{""timestamp"":""2009-04-16T17:26:00""}","{""name"":""Burns Strider""}"
-"{""name"":""Saif Khan [mailto:""}","{""timestamp"":""2009-04-16T17:26:00""}","{""name"":""Burns Strider""}"
-"{""name"":""Burns Strider <""}","{""timestamp"":""2009-04-16T17:31:05""}","{""name"":""H""}"
-"{""name"":""Burns Strider""}","{""timestamp"":""2009-04-16T17:31:05""}","{""name"":""H""}"
-"{""name"":""Burns Strider""}","{""timestamp"":""2009-04-16T17:31:05""}","{""name"":""Doug Band""}"
-"{""name"":""Burns Strider <""}","{""timestamp"":""2009-04-16T17:31:05""}","{""name"":""Doug Band""}"
-"{""name"":""Nash, Ardenia R (INL/FO)""}","{""timestamp"":""2009-04-16T17:56:00""}","{""name"":""Johnson, David T""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-17T13:16:00""}","{""name"":""'JilotyLC@state.gov'""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-04-17T13:16:00""}","{""name"":""Jiloty, Lauren C""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-04-17T15:54:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-04-17T15:54:00""}","{""name"":""Huma Abedin""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-04-17T19:58:00""}","{""name"":""'cheryl.mills""}"
-"{""name"":""Cheryl Mills <cheryl.mills""}","{""timestamp"":""2009-04-18T10:33:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-19T18:58:39""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-19T18:59:00""}","{""name"":""H2""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-19T19:47:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""Margaret V. W. Carpenter [mailto:""}","{""timestamp"":""2009-04-20T07:04:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Margaret V. W. Carpenter [mailto""}","{""timestamp"":""2009-04-20T07:04:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Margaret V. W. Carpenter [mailto:""}","{""timestamp"":""2009-04-20T07:04:00""}","{""name"":""Carpenter, Margaret V.W.""}"
-"{""name"":""Margaret V. W. Carpenter [mailto""}","{""timestamp"":""2009-04-20T07:04:00""}","{""name"":""Carpenter, Margaret V.W.""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-20T07:55:41""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-20T07:56:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-20T08:19:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Caputo, Lisa""}","{""timestamp"":""2009-04-20T11:48:43""}","{""name"":""H""}"
-"{""name"":""Hrc New""}","{""timestamp"":""2009-04-20T20:09:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-20T21:15:00""}","{""name"":""H""}"
-"{""name"":""Lew, Jacob""}","{""timestamp"":""2009-04-20T22:46:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-21T07:03:13""}","{""name"":""Valmoro, Lona J""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-21T07:03:13""}","{""name"":""'HAbedin""}"
-"{""name"":""H""}","{""timestamp"":""2009-04-21T07:05:00""}","{""name"":""liake.Sullivan""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-21T07:06:00""}","{""name"":""'Jake.Sullivan""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-21T07:16:00""}","{""name"":""'Jake.Sullivar""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-21T07:16:00""}","{""name"":""'HAbedir""}"
-"{""name"":""H""}","{""timestamp"":""2009-04-21T07:16:00""}","{""name"":""liake.Sullivan""}"
-"{""name"":""H""}","{""timestamp"":""2009-04-21T07:16:00""}","{""name"":""I HAbedin                                                                                           B6""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-04-21T07:19:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-04-21T07:19:00""}","{""name"":""HAbedin""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-21T07:39:00""}","{""name"":""H""}"
-"{""name"":""jake.sullivan""}","{""timestamp"":""2009-04-21T07:42:00""}","{""name"":""H""}"
-"{""name"":""jake.sullivan                                                                B6""}","{""timestamp"":""2009-04-21T07:43:00""}","{""name"":""H""}"
-"{""name"":""jake.sullivan                                                                B6""}","{""timestamp"":""2009-04-21T07:43:00""}","{""name"":""'HAbedin                                                              B6""}"
-"{""name"":""Jackie Newmyer <                                                                          B61""}","{""timestamp"":""2009-04-21T11:24:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-21T11:28:00""}","{""name"":""'JilotyLC@state.gov.""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-04-21T11:28:00""}","{""name"":""Jiloty, Lauren C""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-21T11:30:00""}","{""name"":""H""}"
-"{""name"":""AmbEFBag16""}","{""timestamp"":""2009-04-21T15:23:00""}","{""name"":""cheryl.mills""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-21T17:42:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-21T17:42:00""}","{""name"":""Sullivan, Jacob 3""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-21T17:42:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-04-21T17:42:00""}","{""name"":""Polt, Michael C""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T17:44:38""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T17:44:38""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T17:45:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-21T18:07:00""}","{""name"":""Hill, Christopher R""}"
-"{""name"":""Hill, Christopher R""}","{""timestamp"":""2009-04-21T18:08:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T18:32:54""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T18:33:00""}","{""name"":""H2""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-21T18:36:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-04-21T19:13:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-21T19:13:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T20:06:00""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T20:06:07""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.goy>""}","{""timestamp"":""2009-04-21T20:06:07""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T20:06:07""}","{""name"":""H2""}"
-"{""name"":""H <hrod17©clintonemail.com >""}","{""timestamp"":""2009-04-21T20:14:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-21T20:14:10""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-21T20:14:10""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T20:14:45""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-21T20:15:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-21T20:55:00""}","{""name"":""'Jake.Sulliyan""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-21T21:05:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""Jake Sullivan""}","{""timestamp"":""2009-04-21T21:58:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-21T22:30:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan                                                                        B6""}","{""timestamp"":""2009-04-21T23:02:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:02:06""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <                               >""}","{""timestamp"":""2009-04-21T23:02:06""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:02:06""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:08:37""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:09:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:19:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:26:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:26:10""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <""}","{""timestamp"":""2009-04-21T23:40:00""}","{""name"":""H""}"
-"{""name"":""Cheryl Mills <""}","{""timestamp"":""2009-04-22T06:14:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-22T07:54:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C""}","{""timestamp"":""2009-04-22T17:54:11""}","{""name"":""Jiloty, Lauren C""}"
-"{""name"":""H""}","{""timestamp"":""2009-04-23T06:43:41""}","{""name"":""'Jake.Sullivar           <Jake.Sullivar   o""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-23T06:44:00""}","{""name"":""'Jake.Sullivar""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-04-23T07:00:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-23T07:36:00""}","{""name"":""'abedinh@state.gov'""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-04-24T08:08:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-04-24T08:08:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-04-24T08:08:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Lew, Jacob""}","{""timestamp"":""2009-04-24T08:09:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Pena, Laura""}","{""timestamp"":""2009-04-24T11:17:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-24T12:22:30""}","{""name"":""Lew, Jacob J""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-24T12:22:30""}","{""name"":""Holbrooke, Richard C""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T12:29:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T12:40:00""}","{""name"":""H""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-04-24T12:56:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-04-24T12:56:00""}","{""name"":""Samuelson, Heather F""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-04-24T12:56:00""}","{""name"":""Patel, Shraddha""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-24T13:27:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T13:50:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T13:50:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T13:50:06""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T13:50:06""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T13:50:06""}","{""name"":""Abedin, Huma <AbedinH@state.gov>""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T13:50:06""}","{""name"":""Abedin, Huma <AbedinH@state.gov>""}"
-"{""name"":""Brimmer, Esther D""}","{""timestamp"":""2009-04-24T14:38:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Brimmer, Esther D""}","{""timestamp"":""2009-04-24T14:38:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-04-24T16:22:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-24T16:22:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T16:35:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-24T16:36:00""}","{""name"":""H""}"
-"{""name"":""Lavy, Brendan L""}","{""timestamp"":""2009-04-24T17:49:00""}","{""name"":""D(S)_SteinbergDailySchedule""}"
-"{""name"":""Capricia Penavic Marshall I""}","{""timestamp"":""2009-04-24T17:59:00""}","{""name"":""""}"
-"{""name"":""Capricia Penavic Marshall I""}","{""timestamp"":""2009-04-24T17:59:00""}","{""name"":""Begala, Paul""}"
-"{""name"":""Holbrooke, Richard C""}","{""timestamp"":""2009-04-24T23:41:35""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-25T06:43:00""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov >""}","{""timestamp"":""2009-04-25T06:43:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-25T08:45:00""}","{""name"":""H""}"
-"{""name"":""Burns, William J""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Burns, William ]""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Burns, William J""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Burns, William J""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""Burns, William ]""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""Burns, William J""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""Burns, William J""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Burns, William ]""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Burns, William J""}","{""timestamp"":""2009-04-25T15:47:52""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Hrc New""}","{""timestamp"":""2009-04-25T16:32:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""cheryl.mills""}","{""timestamp"":""2009-04-25T16:44:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-26T10:29:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-26T10:29:11""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-26T10:29:11""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-26T12:38:00""}","{""name"":""H2""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-04-26T20:44:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-26T20:44:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Mills, Cheryl D <MilIsCD@state.gov>""}","{""timestamp"":""2009-04-26T20:56:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-26T21:35:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D <MillsCD©state.gov>""}","{""timestamp"":""2009-04-26T21:43:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-26T21:54:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-26T21:55:00""}","{""name"":""H""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Boucher, Richard .A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Boucher, Richard .A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Burns, William 3""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Burns, William J""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Burns, William 1""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Russell, baniel A""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Thomas, Harry K (Director General)""}"
-"{""name"":""Boucher, Richard .A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Thomas, Harry K (Director General)""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Thomas, Harry K (Director General)""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Russell, Daniel A""}"
-"{""name"":""Boucher, Richard .A""}","{""timestamp"":""2009-04-27T10:09:00""}","{""name"":""Russell, Daniel A""}"
-"{""name"":""Jan Piercy [mailto:""}","{""timestamp"":""2009-04-27T11:06:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Jan Piercy [mailto""}","{""timestamp"":""2009-04-27T11:06:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Jan Piercy [mailto:""}","{""timestamp"":""2009-04-27T11:06:00""}","{""name"":""Carpenter, Margaret V.W.""}"
-"{""name"":""Jan Piercy [mailto""}","{""timestamp"":""2009-04-27T11:06:00""}","{""name"":""Carpenter, Margaret V.W.""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-27T11:24:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-27T11:24:13""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-27T11:24:13""}","{""name"":""H""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-27T12:14:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-27T12:14:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-27T12:14:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Slaughter, Anne-Marie""}","{""timestamp"":""2009-04-27T12:14:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D [mailto:MillsCDAstate.gov]""}","{""timestamp"":""2009-04-27T13:37:00""}","{""name"":""Tom Freedman""}"
-"{""name"":""Mills, Cheryl D [mailto:MillsCD@state.gov]""}","{""timestamp"":""2009-04-27T13:37:00""}","{""name"":""Tom Freedman""}"
-"{""name"":""Mills, Cheryl D [mailto:MillsCDAstate.gov]""}","{""timestamp"":""2009-04-27T13:37:00""}","{""name"":""Jim Kennedy""}"
-"{""name"":""Mills, Cheryl D [mailto:MillsCD@state.gov]""}","{""timestamp"":""2009-04-27T13:37:00""}","{""name"":""Jim Kennedy""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-27T14:19:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-27T14:19:09""}","{""name"":""H""}"
-"{""name"":""Ruffini, Julio""}","{""timestamp"":""2009-04-27T17:45:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Ruffini, Julio""}","{""timestamp"":""2009-04-27T17:45:00""}","{""name"":""Rodriguez, Miguel E""}"
-"{""name"":""Ruffini, Julio""}","{""timestamp"":""2009-04-27T17:45:00""}","{""name"":""Polt, Michael C""}"
-"{""name"":""Ruffini, Julio""}","{""timestamp"":""2009-04-27T17:45:00""}","{""name"":""Nolan, Sarah E""}"
-"{""name"":""Ruffini, Julio""}","{""timestamp"":""2009-04-27T17:45:00""}","{""name"":""O'Donnell, Edward B""}"
-"{""name"":""Ruffini, Julio""}","{""timestamp"":""2009-04-27T17:45:00""}","{""name"":""Bulgrin, Julie K""}"
-"{""name"":""Coleman, Claire L""}","{""timestamp"":""2009-04-27T17:57:35""}","{""name"":""S""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-27T17:57:48-04:00""}","{""name"":""'""}"
-"{""name"":""H <HDR22@clintonemailcom>""}","{""timestamp"":""2009-04-27T17:57:48-04:00""}","{""name"":""'""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-27T18:08:00""}","{""name"":""'JilotyLC@state.gov.""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-04-27T18:08:00""}","{""name"":""Jiloty, Lauren C""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-27T18:26:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-27T18:26:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Jackie Newmyer""}","{""timestamp"":""2009-04-27T18:51:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-27T20:34:00""}","{""name"":""'michele.fl""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-27T20:34:00""}","{""name"":""'newmyer""}"
-"{""name"":""Jim Kennedy""}","{""timestamp"":""2009-04-27T21:38:56""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Jim Kennedy                                                                                                            B6""}","{""timestamp"":""2009-04-27T21:38:56""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Jim Kennedy""}","{""timestamp"":""2009-04-27T21:38:56""}","{""name"":""Tom Freedman""}"
-"{""name"":""Jim Kennedy                                                                                                            B6""}","{""timestamp"":""2009-04-27T21:38:56""}","{""name"":""Tom Freedman""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-28T05:28:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-28T05:28:02""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-28T05:40:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-04-28T06:06:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-28T07:40:44""}","{""name"":""McDonough, Denis R.""}"
-"{""name"":""McDonough, Denis R. [mailto""}","{""timestamp"":""2009-04-28T07:46:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-28T07:56:00""}","{""name"":""H""}"
-"{""name"":""Begala, Paul""}","{""timestamp"":""2009-04-28T09:18:25""}","{""name"":""Capricia Penavic Marshall""}"
-"{""name"":""Capricia Penavic Marshall IL""}","{""timestamp"":""2009-04-28T09:30:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Capricia Penavic Marshall IL""}","{""timestamp"":""2009-04-28T09:30:00""}","{""name"":""Philippe Reines1""}"
-"{""name"":""Capricia Penavic Marshall IL""}","{""timestamp"":""2009-04-28T09:30:00""}","{""name"":""Adler, Caroline E (PACE)""}"
-"{""name"":""Capricia Penavic Marshall IL""}","{""timestamp"":""2009-04-28T09:30:00""}","{""name"":""pbegala                     Mills, Cheryl D""}"
-"{""name"":""Strobe Talbott""}","{""timestamp"":""2009-04-28T09:46:25""}","{""name"":""H2""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-28T10:45:00""}","{""name"":""'cheryimills              'millscd@state.gov'""}"
-"{""name"":""Begala, Paul""}","{""timestamp"":""2009-04-28T14:09:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Strobe Talbott [""}","{""timestamp"":""2009-04-28T17:44:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Strobe Talbott [mailto""}","{""timestamp"":""2009-04-28T17:44:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Toiv, Nora F""}","{""timestamp"":""2009-04-28T17:45:00""}","{""name"":""Valmoro, Lona 1""}"
-"{""name"":""Toiv, Nora F""}","{""timestamp"":""2009-04-28T17:45:00""}","{""name"":""Valmoro, Lana J""}"
-"{""name"":""Valmoro, Lana J""}","{""timestamp"":""2009-04-28T18:06:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Valmoro, Lona J""}","{""timestamp"":""2009-04-28T18:06:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-28T18:31:00""}","{""name"":""H""}"
-"{""name"":""Jose.Fernandez""}","{""timestamp"":""2009-04-28T18:37:46""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-28T19:05:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-04-28T20:34:43""}","{""name"":""Hanley, Monica R""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-04-28T20:34:43""}","{""name"":""Hanley, Monica R""}"
-"{""name"":""Hanley, Monica R""}","{""timestamp"":""2009-04-28T20:49:26""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Hanley, Monica R""}","{""timestamp"":""2009-04-28T20:49:26""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-04-28T20:56:00""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma <AbedinH©state.gov>""}","{""timestamp"":""2009-04-28T20:57:00""}","{""name"":""H2""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-28T21:30:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-04-28T21:35:39""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H < hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-28T21:36:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-04-28T21:36:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Todd Stern""}","{""timestamp"":""2009-04-28T23:58:35""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Todd Stern""}","{""timestamp"":""2009-04-28T23:58:35""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Todd Stern""}","{""timestamp"":""2009-04-28T23:58:35""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Todd Stern""}","{""timestamp"":""2009-04-28T23:58:35""}","{""name"":""Stern, Todd D (S/SECC)""}"
-"{""name"":""Todd Stern""}","{""timestamp"":""2009-04-28T23:58:35""}","{""name"":""Lew, Jacob J""}"
-"{""name"":""Todd Stern""}","{""timestamp"":""2009-04-28T23:58:35""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-29T02:22:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-29T03:18:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-29T03:37:25""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-29T03:37:25""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-29T03:37:25""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-29T03:37:25""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-29T03:37:25""}","{""name"":""Valmoro, Lona 1""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-04-29T03:37:25""}","{""name"":""Valmoro, Lona 1""}"
-"{""name"":""Mills, Cheryl D <MiflsCD@state.gov>""}","{""timestamp"":""2009-04-29T03:44:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-29T03:46:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-29T04:00:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-04-29T04:00:08""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-29T06:22:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-04-29T06:54:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-29T22:31:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-29T22:31:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-30T06:45:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-04-30T06:45:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""cheryl.mills                                                               B6""}","{""timestamp"":""2009-04-30T12:38:00""}","{""name"":""H""}"
-"{""name"":""Begala, Paul""}","{""timestamp"":""2009-04-30T12:46:55""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCDOstate.gov >""}","{""timestamp"":""2009-04-30T16:18:28""}","{""name"":""Begala, Paul""}"
-"{""name"":""Mikulski, BAM (Mikulski) <BAM@Mikulski.senate.gov>""}","{""timestamp"":""2009-04-30T20:09:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-01T04:19:00""}","{""name"":""H""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-05-01T07:34:00""}","{""name"":""Ries, Marcie B""}"
-"{""name"":""Abedin, Huma <AbedinH©state.gov>""}","{""timestamp"":""2009-05-01T07:50:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-01T09:13:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-01T09:13:00""}","{""name"":""Smith, Daniel B""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-01T09:13:00""}","{""name"":""'Jake Sullivan'""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-01T09:13:00""}","{""name"":""'AmbEFBagley              Balderston, Kris M""}"
-"{""name"":""Sisk, Richard                                                                                                             B6""}","{""timestamp"":""2009-05-01T12:02:00""}","{""name"":""1:9 Crowley""}"
-"{""name"":""Ries, Marcie B""}","{""timestamp"":""2009-05-01T13:38:00""}","{""name"":""Salisbury, Wayne S""}"
-"{""name"":""Ries, Marcie B""}","{""timestamp"":""2009-05-01T13:38:00""}","{""name"":""Scott, Kyle R""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-01T14:33:00""}","{""name"":""H""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Pena, Laura""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Pella, Laura""}"
-"{""name"":""Samuelson, Heather F""}","{""timestamp"":""2009-05-01T16:44:00""}","{""name"":""Peria, Laura""}"
-"{""name"":""Reines, Philippe I (PACE)""}","{""timestamp"":""2009-05-01T16:49:00""}","{""name"":""(U)landler""}"
-"{""name"":""Reines, Philippe I (PACE) [mailto:ReinesPi@state.gov]""}","{""timestamp"":""2009-05-01T16:52:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Reines, Philippe I (PACE) [mailto:ReinesPi@state.gov]""}","{""timestamp"":""2009-05-01T16:52:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D [mailto:MillsCD@state.gov]""}","{""timestamp"":""2009-05-01T17:30:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D [mailto:MillsCD@state.gov]""}","{""timestamp"":""2009-05-01T17:30:00""}","{""name"":""Reines, Philippe I (PACE)""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-01T17:30:40""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-01T17:30:40""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-01T17:31:00""}","{""name"":""H""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-05-01T19:00:50""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Kennedy, Patrick F""}","{""timestamp"":""2009-05-01T19:00:50""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""newmyer               on behalf of Jackie Newmyer                                        B6""}","{""timestamp"":""2009-05-01T19:06:00""}","{""name"":""H""}"
-"{""name"":""David and Diane Weisz Young [mailto""}","{""timestamp"":""2009-05-01T20:55:00""}","{""name"":""Burns Strider""}"
-"{""name"":""David and Diane Weisz Young [mailto""}","{""timestamp"":""2009-05-01T20:55:00""}","{""name"":""Bishop John R. Schol""}"
-"{""name"":""David and Diane Weisz Young [mailto""}","{""timestamp"":""2009-05-01T20:55:00""}","{""name"":""Diane and Dave Weisz Young""}"
-"{""name"":""David and Diane Weisz Young [mailto""}","{""timestamp"":""2009-05-01T20:55:00""}","{""name"":""David Young (on Hill)""}"
-"{""name"":""Abedin, Huma <AbedinH©state.gov>""}","{""timestamp"":""2009-05-01T22:05:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-02T07:23:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH©state.gov>""}","{""timestamp"":""2009-05-02T07:30:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-02T07:47:00""}","{""name"":""H""}"
-"{""name"":""Abed in, Huma <AbedinH@state.goy>""}","{""timestamp"":""2009-05-02T08:17:00""}","{""name"":""Oscar Flores""}"
-"{""name"":""Abed in, Huma <AbedinH@state.goy>""}","{""timestamp"":""2009-05-02T08:17:00""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-05-02T09:22:45""}","{""name"":""'hr15@att.blackberry.net' <hr15@att.blackberry.net>""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-02T09:23:00""}","{""name"":""H2""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-05-02T11:37:55""}","{""name"":""Ihr15@att.blackberry.neti <hr15@att.blackberry.net>""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov >""}","{""timestamp"":""2009-05-02T11:38:00""}","{""name"":""H2""}"
-"{""name"":""H [mailto:HDR22@clintonemailcom]""}","{""timestamp"":""2009-05-02T11:52:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hrod17@clintOnemail.com>""}","{""timestamp"":""2009-05-02T11:52:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-02T11:57:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-02T11:57:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-02T11:57:00""}","{""name"":""Oscar Flores""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-02T11:57:00""}","{""name"":""Oscar Flores""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-02T12:41:30""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-02T12:42:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-05-02T13:10:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-05-02T13:37:00""}","{""name"":""'Jake.Sulliva""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-02T15:24:00""}","{""name"":""H""}"
-"{""name"":""Burns Strider""}","{""timestamp"":""2009-05-02T17:45:57""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-02T17:49:00""}","{""name"":""'ValmoroLl@state.gov.""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-02T17:49:00""}","{""name"":""'HAbedin""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-03T08:19:00""}","{""name"":""'ValmoroU@state.gov'""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-03T08:19:00""}","{""name"":""'HAbedin                                                  B6""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T08:19:14""}","{""name"":""'HAbedin""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T08:19:14""}","{""name"":""'ValmoroU@state.gov' <ValmoroU@state.gov>""}"
-"{""name"":""Huma Abedin <Huma                                                                B6""}","{""timestamp"":""2009-05-03T08:34:00""}","{""name"":""H""}"
-"{""name"":""Huma Abedin <Huma                                                                B6""}","{""timestamp"":""2009-05-03T08:34:00""}","{""name"":""'ValmoroLl@state.gov'""}"
-"{""name"":""Huma Abedin <Huma                                                                B6""}","{""timestamp"":""2009-05-03T08:34:00""}","{""name"":""'habedin""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-03T09:15:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-03T09:58:49""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-03T09:58:49""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-03T09:58:49""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH©state.gov>""}","{""timestamp"":""2009-05-03T09:59:00""}","{""name"":""H""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T11:03:50""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T11:03:50""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-03T11:04:00""}","{""name"":""'AbedinH@state.gov'""}"
-"{""name"":""Abedin, Huma <AbedinH©state.gov>""}","{""timestamp"":""2009-05-03T11:23:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma""}","{""timestamp"":""2009-05-03T11:23:19""}","{""name"":""ihdr22@clintonemail.com' <hdr22@clintonemail.com>""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-03T11:36:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-03T14:22:00""}","{""name"":""Kennedy, Patrick F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-03T14:22:00""}","{""name"":""Samuelson, Heather F""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-03T14:22:00""}","{""name"":""Pena, Laura""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-03T14:25:00""}","{""name"":""H""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T15:06:47""}","{""name"":""I HAbedin""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T15:06:47""}","{""name"":""ValmoroU@state.govl <VaIrnoroU@state.gov>   B6""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T15:06:47""}","{""name"":""'HAbedin                  <                            >""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-03T15:06:47""}","{""name"":""Valmoro, Lona J                             B6""}"
-"{""name"":""Huma Abedin <Huma@clintonemail.com >""}","{""timestamp"":""2009-05-03T15:07:00""}","{""name"":""H""}"
-"{""name"":""Huma Abedin <Huma@clintonemail.com >""}","{""timestamp"":""2009-05-03T15:07:00""}","{""name"":""'habedin""}"
-"{""name"":""Huma Abedin <Huma@clintonemail.com >""}","{""timestamp"":""2009-05-03T15:07:00""}","{""name"":""'ValmoroU@state.gov                         B6""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-05-03T15:08:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-05-03T15:08:00""}","{""name"":""HAbedin                                                              , B6""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov >""}","{""timestamp"":""2009-05-03T15:21:00""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-05-04T08:45:00""}","{""name"":""'Jake.Sullivar""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""Valmoro, Lona J""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""Valmoro, Lona J""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""'HAbedir""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""'HAbedin""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""'HAbedin""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""'ValmoroU@state.gov'""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""'filotyLC@state.gov'""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-04T09:05:00""}","{""name"":""Jiloty, Lauren C""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC©state.goy>""}","{""timestamp"":""2009-05-04T09:08:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-05-04T09:21:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona J <ValmoroU@state.gov>""}","{""timestamp"":""2009-05-04T09:21:00""}","{""name"":""HAbedin""}"
-"{""name"":""Bums Strider                                                                                            B6""}","{""timestamp"":""2009-05-04T09:36:17""}","{""name"":""H""}"
-"{""name"":""Burns Strider""}","{""timestamp"":""2009-05-04T09:36:17""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-05-04T09:40:00""}","{""name"":""'cheryl.mills             'Jake.Sullivan""}"
-"{""name"":""Valmoro, Lona J <VaImoroU@state.gov>""}","{""timestamp"":""2009-05-04T09:41:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona J <VaImoroU@state.gov>""}","{""timestamp"":""2009-05-04T09:41:00""}","{""name"":""HAbedin""}"
-"{""name"":""Jake Sullivan <jake.sullivar _                                                 B6""}","{""timestamp"":""2009-05-04T10:02:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <jake.sullivar _                                                 B6""}","{""timestamp"":""2009-05-04T10:02:00""}","{""name"":""cheryl.mills""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-04T12:17:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-04T12:17:23""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-04T12:17:23""}","{""name"":""H""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-05-04T12:44:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Boucher, Richard A""}","{""timestamp"":""2009-05-04T12:44:00""}","{""name"":""McLean, Lori A""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-04T13:01:47""}","{""name"":""Abedin, Huma""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-04T13:02:00""}","{""name"":""'AbedinH@state.gov.""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-04T13:08:00""}","{""name"":""H""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T13:41:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T13:41:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T13:41:00""}","{""name"":""'Jake Sullivan'""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T13:41:00""}","{""name"":""'AmbEFBagley             Balderston, Kris M""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-04T14:26:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-04T14:26:00""}","{""name"":""Smith, Daniel B""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-04T14:26:00""}","{""name"":""'Jake Sullivan'""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-04T14:26:00""}","{""name"":""'AmbEFBagley              Balderston, Kris M""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T14:31:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T14:31:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T14:31:00""}","{""name"":""'AmbEFBagley             Balderston, Kris M                                                          B6""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-04T14:31:00""}","{""name"":""'Jake Sullivan'""}"
-"{""name"":""Abedin, Huma <AbedinH@state.gov>""}","{""timestamp"":""2009-05-04T14:38:00""}","{""name"":""H""}"
-"{""name"":""Abedin, Huma <AbedinH©state.gov>""}","{""timestamp"":""2009-05-04T14:40:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-04T14:40:00""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <jake.sullivar""}","{""timestamp"":""2009-05-04T15:19:05""}","{""name"":""H""}"
-"{""name"":""Jake Sullivan <jake.sullivan""}","{""timestamp"":""2009-05-04T15:19:05""}","{""name"":""H""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-05-04T16:08:00""}","{""name"":""'Jake.Sulliva""}"
-"{""name"":""Jake Sullivan <jake.sullivan                                                        B6""}","{""timestamp"":""2009-05-04T16:11:00""}","{""name"":""H""}"
-"{""name"":""Ross, Alec J""}","{""timestamp"":""2009-05-04T16:53:00""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-04T16:57:00""}","{""name"":""H""}"
-"{""name"":""Richard Soca rides""}","{""timestamp"":""2009-05-04T17:11:00""}","{""name"":""Cheryl Mills""}"
-"{""name"":""Richard Soca rides""}","{""timestamp"":""2009-05-04T17:11:00""}","{""name"":""Melanne Verveer""}"
-"{""name"":""Richard Soca rides""}","{""timestamp"":""2009-05-04T17:11:00""}","{""name"":""Cheryl Mills1""}"
-"{""name"":""Richard Soca rides""}","{""timestamp"":""2009-05-04T17:11:00""}","{""name"":""Jim Kennedyl""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-04T17:17:25""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-04T17:17:25""}","{""name"":""Justin Cooper""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-05-04T18:30:28""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Pena, Laura""}","{""timestamp"":""2009-05-04T18:30:28""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-05-04T18:30:28""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-05-04T18:30:28""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Pena, Laura""}","{""timestamp"":""2009-05-04T18:30:28""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-05-04T18:30:28""}","{""name"":""Toiv, Nora F""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-04T19:36:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""H <hrod17@clintonemail.com >""}","{""timestamp"":""2009-05-04T19:58:00""}","{""name"":""'JilotyLC@state.gov.""}"
-"{""name"":""Cheryl Mills <cheryl.mill!""}","{""timestamp"":""2009-05-04T20:15:00""}","{""name"":""'Cheryl Mills'""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-05T06:06:48""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-05T06:06:48""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-05T06:07:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-05-05T06:24:00""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-05-05T06:25:19""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-05-05T06:25:19""}","{""name"":""H""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-05-05T06:25:19""}","{""name"":""Abedin, Huma <AbedinH@state.gov>""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov>""}","{""timestamp"":""2009-05-05T06:25:19""}","{""name"":""Abedin, Huma <AbedinH@state.gov>""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-05T06:53:00""}","{""name"":""'JilotyLC@state.gov'""}"
-"{""name"":""H fmailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-05T06:53:00""}","{""name"":""Jiloty, Lauren C""}"
-"{""name"":""H <HDR22@clintonemail.com >""}","{""timestamp"":""2009-05-05T07:11:53""}","{""name"":""'ValmoroU@state.govi <ValmoroU@state.gov>""}"
-"{""name"":""H <HDR22@clintonemail.com >""}","{""timestamp"":""2009-05-05T07:11:53""}","{""name"":""'HAbedin                                                                 B6""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-05T07:12:00""}","{""name"":""'HAbedin""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-05T07:12:00""}","{""name"":""'ValmoroU@state.gov'""}"
-"{""name"":""Huma Abedin <Huma@clintonemail.com >""}","{""timestamp"":""2009-05-05T08:02:00""}","{""name"":""H""}"
-"{""name"":""Huma Abedin <Huma@clintonemail.com >""}","{""timestamp"":""2009-05-05T08:02:00""}","{""name"":""'ValmoroLl@state.gov.""}"
-"{""name"":""Huma Abedin <Huma@clintonemail.com >""}","{""timestamp"":""2009-05-05T08:02:00""}","{""name"":""'habedin                                                     B6""}"
-"{""name"":""Jiloty, Lauren C <JilotyLC@state.gov >""}","{""timestamp"":""2009-05-05T08:12:00""}","{""name"":""H""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-05T15:55:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-05T15:55:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-05T15:55:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-05T15:55:00""}","{""name"":""Abedin, Huma""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-05T15:55:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Smith, Daniel B""}","{""timestamp"":""2009-05-05T15:55:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Wendy Sherman <wsherman                                                                                  B6""}","{""timestamp"":""2009-05-05T17:53:52""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Wendy Sherman""}","{""timestamp"":""2009-05-05T17:53:52""}","{""name"":""Cheryl Mills1 <                         Mills, Cheryl D""}"
-"{""name"":""Wendy Sherman""}","{""timestamp"":""2009-05-05T17:53:52""}","{""name"":""Cheryl Mills1                           Mills, Cheryl D""}"
-"{""name"":""Wendy Sherman <wsherman                                                                                  B6""}","{""timestamp"":""2009-05-05T17:53:52""}","{""name"":""Cheryl Mills1 <cheryl.millE""}"
-"{""name"":""Wendy Sherman <wsherman""}","{""timestamp"":""2009-05-05T17:53:52""}","{""name"":""Cheryl Mills1 <cheryl.mills             Mills, Cheryl D""}"
-"{""name"":""Wendy Sherman <wshermar""}","{""timestamp"":""2009-05-05T17:53:52""}","{""name"":""Cheryl Mills1 <cheryl.mills              Mills, Cheryl D""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-05T18:39:44""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-05T18:40:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov >""}","{""timestamp"":""2009-05-06T05:35:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T05:35:23""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T05:35:23""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T05:35:23""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T05:35:23""}","{""name"":""H""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-06T05:58:44""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-06T05:58:44""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <HDR22@clintonemail.com>""}","{""timestamp"":""2009-05-06T05:58:44""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hrod17@clintonernail.com >""}","{""timestamp"":""2009-05-06T05:59:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T06:19:57""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T06:19:57""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T06:20:00""}","{""name"":""H""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-06T06:37:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-06T06:37:00""}","{""name"":""'millscd@state.gov.""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-06T06:50:00""}","{""name"":""'millscd@state.gov'""}"
-"{""name"":""H [mailto:HDR22@clintonemail.com]""}","{""timestamp"":""2009-05-06T06:51:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""H <hrod17@clintonemail.corn>""}","{""timestamp"":""2009-05-06T06:51:00""}","{""name"":""'millscd@state.aov'""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-06T06:59:00""}","{""name"":""'Jake.Sullivan""}"
-"{""name"":""H <hrod17@clintonemail.com>""}","{""timestamp"":""2009-05-06T06:59:00""}","{""name"":""H2""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T08:17:00""}","{""name"":""H""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-06T08:17:53""}","{""name"":""Carpenter, Margaret V.W.""}"
-"{""name"":""Mills, Cheryl D""}","{""timestamp"":""2009-05-06T08:17:53""}","{""name"":""Pena, Laura""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T08:27:00""}","{""name"":""H""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-05-06T08:28:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Perla, Laura""}","{""timestamp"":""2009-05-06T08:28:00""}","{""name"":""Carpenter, Margaret V.W.""}"
-"{""name"":""Mills, Cheryl D <MillsCD@state.gov>""}","{""timestamp"":""2009-05-06T08:29:00""}","{""name"":""H""}"
-"{""name"":""Valmoro, Lona 3""}","{""timestamp"":""2009-05-06T16:51:00""}","{""name"":""Sullivan, Jacob J""}"
-"{""name"":""Valmoro, Lona 3""}","{""timestamp"":""2009-05-06T16:51:00""}","{""name"":""Mills, Cheryl D""}"
-"{""name"":""Valmoro, Lona 3""}","{""timestamp"":""2009-05-06T16:51:00""}","{""name"":""Burns, William 3""}"
-"{""name"":""Valmoro, Lona 3""}","{""timestamp"":""2009-05-06T16:51:00""}","{""name"":""Steinberg, James B""}"
-"{""name"":""Valmoro, Lona 3""}","{""timestamp"":""2009-05-06T16:51:00""}","{""name"":""Fried, Daniel""}"
-"{""name"":""Valmoro, Lona 3""}","{""timestamp"":""2009-05-06T16:51:00""}","{""name"":""Beyrle, John R""}"
-"{""name"":""Valmoro, Lona 3""}","{""timestamp"":""2009-05-06T16:51:00""}","{""name"":""Gottemoeller,""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-05-06T18:57:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-05-06T18:57:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-05-06T18:57:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-05-06T18:57:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-05-06T18:57:00""}","{""name"":""Verma, Richard R""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-05-06T18:57:00""}","{""name"":""Polt, Michael C""}"
-"{""name"":""Rodriguez, Miguel E""}","{""timestamp"":""2009-05-06T18:57:00""}","{""name"":""Polt, Michael C""}"
+From.name,Sent.timestamp,To.name
+"Williams, Aaron [mailtc",0200-06-04T16:58:00,"Mills, Cheryl D"
+[mailto,0200-06-05T11:11:00,"Mi Is, Cheryl D"
+Thomas F. McLarty [mailto,0201-03-24T10:24:00,"Mills, Cheryl D"
+H [mailto:HDR22@clintonemail.com],0201-05-27T19:17:00,'preines
+H [mailto:HDR22@clintonemail.com],0201-05-27T19:17:00,"Sullivan, Jacob J"
+H [mailto:HDR22@clintonemail.com],0201-11-23T00:00:00,lake.sullivan
+H [mailto:HDR22@clintonemail.com],0201-11-23T00:00:00,"Sullivan, Jacob J"
+Robert Maguire [mailto:,0203-01-24T10:57:00,"Mills, Cheryl D"
+H <HDR22@clintonemail.com>,0279-06-13T13:41:10,"Mills, Cheryl D"
+"Rubiner, Laurie",1009-07-31T13:26:00,hdr22@clintonemail.com
+"Rubiner, Laurie",1009-07-31T13:26:00,preines               pverveer
+"Rubiner, Laurie",1009-07-31T13:26:00,"Abedin, Huma"
+dgoldwyn,1009-08-05T13:17:00,"Crowley, Philip J"
+dgoldwyn,1009-08-05T13:17:00,"Reines, Philippe I"
+dgoldwyn,1009-08-05T13:17:00,"Mills, Cheryl D"
+dgoldwyn,1009-08-05T13:17:00,"Sullivan, Jacob J"
+Penn Rhodeen,2008-11-21T10:31:00,Hillary Clinton
+H [mailto: hdr22@clintonemail.com ],2009-03-12T22:14:00,"Otero, Mildred ( Clinton )"
+H [mailto: hdr22@clintonemail.com ],2009-03-12T22:14:00,Huma Abedin
+H [mailto: hdr22@clintonemail.com ],2009-03-12T22:14:00,Cheryl Mills
+"Otero, Mildred ( Clinton ) [mailto:Mildred_Otero@clinton.senate.gov]",2009-03-13T14:29:00,hdr22@clintonemailcom
+"Otero, Mildred ( Clinton ) [mailto:Mildred_Otero@clinton.senate.gov]",2009-03-13T14:29:00,Huma Abedin
+"Otero, Mildred ( Clinton ) [mailto:Mildred_Otero@clinton.senate.gov]",2009-03-13T14:29:00,Cheryl Mills
+"Ruckman, Kathleen S",2009-03-13T17:35:54,"Mills, Cheryl D"
+Cheryl Mills[                                                                                                B6,2009-03-13T23:47:59,"Otero, Mildred (Clinton)"
+Cheryl Mills[                                                                                                B6,2009-03-13T23:47:59,heather.samuelson                     Laura Pena                                                  B6
+Cheryl Mills[                                                                                                B6,2009-03-13T23:47:59,Huma Abedin
+"Mills, Cheryl D",2009-03-16T05:54:00,"Ruckman, Kathleen S"
+"Mills, Cheryl D",2009-03-16T05:54:00,"Samuelson, Heather F"
+"Mills, Cheryl D",2009-03-16T05:54:00,"Pena, Laura"
+"Mills, Cheryl D",2009-03-16T05:54:00,"Toiv, Nora F"
+"Ruckman, Kathleen S",2009-03-16T08:49:00,"Mills, Cheryl D"
+"Ruckman, Kathleen S",2009-03-16T08:49:00,"Samuelson, Heather F"
+"Ruckman, Kathleen S",2009-03-16T08:49:00,"Peria, Laura"
+"Ruckman, Kathleen S",2009-03-16T08:49:00,"Toiv, Nora F"
+"Mills, Cheryl D",2009-03-16T10:36:00,"Ruckman, Kathleen S"
+"Mills, Cheryl D",2009-03-16T10:36:00,"Toiv, Nora F"
+"Mills, Cheryl D",2009-03-17T08:00:00,"Ruckman, Kathleen S"
+"Mills, Cheryl D",2009-03-17T08:00:00,"Toiv, Nora F"
+"Ruckman, Kathleen S",2009-03-17T08:59:00,"Mills, Cheryl D"
+"Ruckman, Kathleen S",2009-03-17T08:59:00,"Toiv, Nora F"
+"Abedin, Huma <AbedinH@state.gov >",2009-03-19T12:24:00,H
+Josh Kardon <jrkardon(,2009-03-19T17:20:15,Cheryl Mills <cheryl.mills
+Josh Kardon <jrkardon(,2009-03-19T17:20:15,Cheryl Mills
+Cheryl Mills [mailto:cmills,2009-03-19T18:56:00,jrkardon              cheryl.mills
+Cheryl Mills <cheryLmill5,2009-03-20T06:02:00,H
+Cheryl Mills <cheryLmill5,2009-03-20T06:02:00,"'Abedin, Huma'"
+Cheryl Mills <cheryLmill5,2009-03-20T06:02:00,"'Coleman, Claire L'"
+Cheryl Mills [mailto:cheryl.mills,2009-03-20T06:02:00,"Abedin, Huma"
+Cheryl Mills [mailto:cheryl.mills,2009-03-20T06:02:00,"Coleman, Claire L"
+Cheryl Mills [mailto:cheryl.mills,2009-03-20T06:02:00,hdr22(aclintonemail.com
+Pamela Starr                                                                                           B6,2009-03-20T14:38:00,"Gonzalez, Francisco"
+"Reines, Philippe I (PACE) <ReinesPI@state.gov>",2009-03-21T11:21:00,H
+"Reines, Philippe I (PACE) <ReinesPI@state.gov>",2009-03-21T11:21:00,"Mills, Cheryl D"
+jake.sullivan,2009-03-21T16:09:00,H
+H <hdr22@clintonemail.com>,2009-03-21T18:18:38,Huma Abedin <
+H <hdr22@clintonemail.com>,2009-03-21T18:18:38,"Valmoro, Lona J"
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-03-21T19:13:00,H
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-03-21T19:13:00,HAbedin
+NOBLE Ronald,2009-03-22T18:50:59,Cheryl Mills
+Cheryl Mills [mailto.,2009-03-22T23:56:00,NOBLE Ronald
+Cheryl Mills [mailto.,2009-03-22T23:56:00,millscd@state.gov
+Cheryl Mills [mailto.,2009-03-22T23:56:00,Cheryl Mills1
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-03-23T19:39:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-03-23T19:39:00,"Abedin, Huma"
+"Sullivan, Jacob J <Sullivann@state.gov>",2009-03-23T22:00:00,H
+"Sullivan, Jacob J <Sullivann@state.gov>",2009-03-23T22:00:00,"Mills, Cheryl D"
+"""Sullivan, Jacob J""",2009-03-23T22:00:07-04:00,<hdr22@clintonemail.com>
+H [mailto:hdr22@clintonemail.com],2009-03-23T22:09:00,"Sullivan, Jacob 3•"
+"Sullivan, Jacob J <SullivanJJ©state.gov>",2009-03-23T22:12:00,H
+"Cue, Lourdes C",2009-03-25T00:01:54,"Sullivan, Jacob J"
+"Cue, Lourdes C",2009-03-25T00:01:54,"Mills, Cheryl D"
+H <hdr22@clintonemail.com>,2009-03-25T08:08:01,"Valmoro, Lona J"
+H <hdr22@clintonemail.com>,2009-03-25T08:08:01,Huma Abedin <
+"Valmoro, Lona J <ValmoroLJ@state.gov>",2009-03-25T08:09:00,H
+"Valmoro, Lona J <ValmoroLJ@state.gov>",2009-03-25T08:09:00,HAbedin
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-25T10:33:00,H
+"Cue, Lourdes C",2009-03-25T14:03:00,"Mills, Cheryl D"
+"Slaughter, Anne-Marie",2009-03-25T15:10:00,"Mills, Cheryl D"
+"Alexander, Diane",2009-03-25T17:30:00,"Campbell, Piper A"
+"Alexander, Diane",2009-03-25T17:30:00,"McLean, Lori A"
+"Alexander, Diane",2009-03-25T17:30:00,"Coleman, Claire L"
+"Alexander, Diane",2009-03-25T17:30:00,"Lavy, Brendan L"
+"Alexander, Diane",2009-03-25T17:30:00,"Crocker, Bathsheba N"
+"Alexander, Diane",2009-03-25T17:30:00,"Mills, Cheryl D"
+"Toiv, Nora F",2009-03-25T18:03:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-25T18:06:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-03-25T18:08:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-25T18:28:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-25T18:32:00,"Cue, Lourdes C"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-25T18:32:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-25T18:32:00,"Sullivan, Jacob J"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-25T18:39:00,H
+Cheryl Mills <cheryl.mill                                                              B6,2009-03-26T07:04:00,H
+"Villarreal, Jose",2009-03-26T10:30:00,Cheryl Mills
+"Villarreal, Jose",2009-03-26T10:30:00,Cheryl Mills
+"Villarreal, Jose",2009-03-26T10:30:00,Cheryl Mills
+Diane Reynolds,2009-03-26T10:34:29-04:00,<hdr22@c1intonemail.com>
+"Jiloty, Lauren C <JilotyLC©state.gov >",2009-03-26T11:04:00,H
+Cheryl Mills                                                                    B6,2009-03-26T11:25:00,H
+Cheryl Mills                                                                    B6,2009-03-26T11:25:00,"Sullivan, Jacob J"
+Cheryl Mills <cheryl.mills,2009-03-26T11:25:02,hdr22@clintonemail.com <hdr22@clintonemail.com>
+Cheryl Mills <cheryl.mills,2009-03-26T11:25:02,"Sullivan, Jacob"
+Cheryl Mills <cheryl.mills,2009-03-26T11:25:02,hdr22@clintonemail.com <hdr22@clintonemail.com>
+Cheryl Mills <cheryl.mills,2009-03-26T11:25:02,"Sullivan, Jacob"
+"Sullivan, Jacob J <SullivanJJ@state.gov>",2009-03-26T11:34:00,cheryl.mills
+Hrc New,2009-03-26T12:18:00,Hrc New
+cheryl.mills                                                                  B6,2009-03-26T12:21:00,Jake Sullivan
+cheryl.mills                                                                  B6,2009-03-26T12:21:00,H
+"Cue, Lourdes C",2009-03-26T18:45:35,"Sullivan, Jacob J"
+"Cue, Lourdes C",2009-03-26T18:45:35,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov >",2009-03-26T18:51:00,H
+"Toiv, Nora F",2009-03-27T12:07:00,"Mills, Cheryl D"
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-03-27T12:53:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-03-27T12:53:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-27T13:51:00,H
+Pamela Starr,2009-03-27T15:33:00,"Gonzalez, Francisco 3"
+H <hdr22@clintonemail.com >,2009-03-27T21:02:04,Neera Tanden
+Neera Tanden                                                          B6,2009-03-28T00:37:00,H
+"Slaughter, Anne-Marie",2009-03-28T09:56:08,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-28T12:17:00,H
+Ann O'Leary,2009-03-29T01:41:11,Cheryl Mills
+Ann O'Leary,2009-03-29T01:41:11,Cheryl Millsl
+"""Sullivan, Jacob J""",2009-03-29T11:36:58-04:00,<hdr22@c1intonemai1.com>
+"Sullivan, Jacob J <SullivanJJ@state.gov>",2009-03-29T11:37:00,H
+"Sullivan, Jacob J <SullivanJJ@state.gov>",2009-03-29T11:37:00,Cheryl Mills
+"Sullivan, Jacob J <SullivanJJ@state.gov>",2009-03-29T11:37:00,"Abedin, Huma"
+"Sullivan, Jacob J <SullivanJJ@state.gov>",2009-03-29T11:37:00,Cheryl Millsl
+H [mailto:hdr22@clintonemail.com],2009-03-29T13:08:00,"Sullivan, Jacob)"
+H <hdr22@clintonemail.com>,2009-03-29T13:08:39,"Steinberg, James B"
+"Steinberg, James B <SteinbergJB@state.gov>",2009-03-29T13:10:00,H
+"Sullivan, Jacob J <SullivanJJ@state.gov>",2009-03-29T13:12:00,H
+H <hdr22@clintonemail.com>,2009-03-29T14:11:59,"Jiloty, Lauren C"
+Jackie Newmyer,2009-03-29T15:44:00,H
+Jackie Newmyer                                                           B6,2009-03-29T15:52:00,H
+"Stern, Todd D (S/SECC)",2009-03-29T19:31:21,"Mills, Cheryl D"
+"Stern, Todd D (S/SECC)",2009-03-29T19:31:21,"Lew, Jacob"
+"Stern, Todd D (S/SECC)",2009-03-29T19:31:21,"Steinberg, James B"
+"Stern, Todd D (S/SECC)",2009-03-29T19:31:21,"Sullivan, Jacobi"
+PVerveer,2009-03-29T19:57:00,H
+"':Ann O'Leary""",2009-03-29T22:14:52-07:00,Cheryl Mills
+jake.sullivan                                               B6,2009-03-30T05:19:00,H
+"Mills, Cheryl D <MillsCD©state.gov>",2009-03-30T05:30:00,H
+"Mills, Cheryl D <MillsCD©state.gov>",2009-03-30T05:30:00,"Abedin, Huma"
+"Hooker, Allison M",2009-03-30T14:03:00,"Kim, Yuri J"
+"Hooker, Allison M",2009-03-30T14:03:00,"Arvizu, Alex A"
+"Hooker, Allison M",2009-03-30T14:03:00,EAP-K-DPRK-UNIT-DL
+"Hooker, Allison M",2009-03-30T14:03:00,"Kim, Sung Y"
+Jackie Newmyer                                                            B6,2009-03-30T15:38:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-03-30T15:53:00,H
+"Arvizu, Alex A",2009-03-30T19:11:00,"Crocker, Bathsheba N"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Abedin, Huma"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Davies, Glyn T"
+"Arvizu, Alex A",2009-03-30T19:11:00,""
+"Arvizu, Alex A",2009-03-30T19:11:00,"Mills, Cheryl D"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Sullivan, Jacob J"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Toiv, Nora F"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Park, Pamela P"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Tesone, Mark"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Jacobs, Janice L"
+"Arvizu, Alex A",2009-03-30T19:11:00,"Smith, Daniel B"
+"Arvizu, Alex A",2009-03-30T19:11:00,S_SpecialAssistants
+"Bishop, Christopher W",2009-03-30T19:12:55,S
+"Bishop, Christopher W",2009-03-30T19:12:55,"Wood, Robert A (PACE)"
+"Barks-Ruggles, Erica 3",2009-03-30T20:55:00,"Mills, Cheryl D"
+"Barks-Ruggles, Erica",2009-03-30T20:55:00,"Simon, Jennifer )"
+"Barks-Ruggles, Erica",2009-03-30T20:55:00,"Anderson, Brooke D (USUN)"
+"Barks-Ruggles, Erica",2009-03-30T20:55:00,"Mills, Cheryl D"
+"Barks-Ruggles, Erica 3",2009-03-30T20:55:00,"Simon, Jennifer 3"
+"Barks-Ruggles, Erica 3",2009-03-30T20:55:00,"Anderson, Brooke D (USUN)"
+"Simon, Jennifer J",2009-03-30T21:03:00,"Mills, Cheryl D"
+"Simon, Jennifer J",2009-03-30T21:03:00,"Anderson, Brooke D (USUN)"
+"Simon, Jennifer 3",2009-03-30T21:03:00,"Anderson, Brooke D (USUN)"
+"Simon, Jennifer 3",2009-03-30T21:03:00,"Barks-Ruggles, Erica 3"
+"Simon, Jennifer 3",2009-03-30T21:03:00,"Mills, Cheryl D"
+"Simon, Jennifer J",2009-03-30T21:03:00,"Barks-Ruggles, Erica J"
+"Simon, Jennifer J",2009-03-30T21:06:24,"Mills, Cheryl D"
+"Simon, Jennifer 3",2009-03-30T21:06:24,"Barks-Ruggles, Erica 3"
+"Simon, Jennifer 3",2009-03-30T21:06:24,"Mills, Cheryl D"
+"Simon, Jennifer J",2009-03-30T21:06:24,"Barks-Ruggles, Erica J"
+"Simon, Jennifer 3",2009-03-30T21:06:24,"Anderson, Brooke D (USUN)"
+"Simon, Jennifer J",2009-03-30T21:06:24,"Anderson, Brooke D (USUN)"
+"""Mills, Cheryl D""",2009-03-31T04:24:46-04:00,"Sullivan, Jacob J<SullivanJJ@state.gov>"
+"Mills, Cheryl D <MillsCD@state.gov >",2009-03-31T04:25:00,"Sullivan, Jacob J"
+"Mills, Cheryl D <MillsCD@state.gov >",2009-03-31T04:25:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-03-31T04:25:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-03-31T04:50:00,H
+H,2009-03-31T06:13:26,"Sullivan, Jacob J"
+H,2009-03-31T06:13:26,"Mills, Cheryl D"
+H,2009-03-31T06:13:26,"Abedin, Huma"
+H,2009-03-31T06:13:26,hdr22@clintonemail.com
+"Abedin, Huma <AbedinH@state.gov>",2009-03-31T06:14:00,"Sullivan, Jacobi"
+"Abedin, Huma <AbedinH@state.gov>",2009-03-31T06:14:00,H
+"Abedin, Huma <AbedinH@state.gov>",2009-03-31T06:14:00,"Mills, Cheryl D"
+"Hall, Lydia S",2009-03-31T09:03:26,F Global-Functional
+"Hall, Lydia S",2009-03-31T09:03:26,"Hoyle, Peggy A"
+"Hall, Lydia S",2009-03-31T09:03:26,"Warren, Wade"
+"Hall, Lydia S",2009-03-31T09:03:26,"Greene, Richard L"
+"Hall, Lydia S",2009-03-31T09:03:26,"Shah, Khushali P"
+"Mills, Cheryl D <MillsCD©state.gov>",2009-03-31T14:05:00,H
+"PoIt, Michael C",2009-03-31T14:46:00,"Mills, Cheryl D"
+"PoIt, Michael C",2009-03-31T14:46:00,"Macmanus, Joseph E"
+"PoIt, Michael C",2009-03-31T14:46:00,"Sullivan, Jacob J"
+"PoIt, Michael C",2009-03-31T14:46:00,"Shapiro, Andrew J"
+"PoIt, Michael C",2009-03-31T14:46:00,"'Verma, Richard'"
+"Abedin, Huma <AbedinH@state.gov>",2009-03-31T16:02:00,H
+"Einhorn, Robert 3",2009-03-31T18:07:00,""
+"Einhorn, Robert 3",2009-03-31T18:07:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD©state.gov>",2009-04-01T05:33:00,H
+"Mills, Cheryl D <MillsCD©state.gov>",2009-04-01T05:33:00,"Abedin, Huma"
+sobelcm                                                                                                  B6.,2009-04-01T06:10:00,"Mills, Cheryl D"
+"""Mills, Cheryl D""",2009-04-01T07:57:44-04:00,<hda2gclintonemail.com>
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-01T07:58:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-01T07:58:00,"Abedin, Huma"
+H [mailto:hdr22clintonemail.com],2009-04-01T08:04:00,"Mills, Cheryl D"
+"Fogarty, Daniel J",2009-04-01T09:11:00,"Reines, Philippe I (PACE)"
+"Fogarty, Daniel J",2009-04-01T09:11:00,S_SpecialAssistants
+"Fogarty, Daniel J",2009-04-01T09:11:00,"Mills, Cheryl D"
+"Fogarty, Daniel J",2009-04-01T09:11:00,"Sullivan, Jacob 3"
+"Fogarty, Daniel J",2009-04-01T09:11:00,"Abedin, Huma"
+"Fogarty, Daniel J",2009-04-01T09:11:00,"Macmanus, Joseph E"
+"Fogarty, Daniel J",2009-04-01T09:11:00,"Toiv, Nora F"
+"Fogarty, Daniel J",2009-04-01T09:11:00,"McLean, Lori A"
+"Whitaker, Kevin M",2009-04-01T09:24:00,SES_4
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T11:42:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T11:51:00,H
+"Mills, Cheryl D",2009-04-01T11:56:12,"Burns, William 3"
+"Mills, Cheryl D",2009-04-01T11:56:12,"Toiv, Nora F"
+"Mills, Cheryl D",2009-04-01T11:56:12,"Steinberg, James B"
+"Mills, Cheryl D",2009-04-01T11:56:12,"Sullivan, Jacob J"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T11:59:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T12:01:00,H
+"Steinberg, James B",2009-04-01T12:03:00,"Mills, Cheryl D"
+"Steinberg, James B",2009-04-01T12:03:00,"Burns, William 3"
+"Steinberg, James B",2009-04-01T12:03:00,"Toiv, Nora F"
+"Steinberg, James B",2009-04-01T12:03:00,"Sullivan, Jacob J"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T12:11:00,H
+"Hall, Lydia S",2009-04-01T14:22:00,"Jacobs,"
+"Hall, Lydia S",2009-04-01T14:22:00,"Retzlaff, Barbara A"
+"Hall, Lydia S",2009-04-01T14:22:00,"Dietz, Steve"
+"Hall, Lydia S",2009-04-01T14:22:00,"Greene, Richard L"
+"Hall, Lydia S",2009-04-01T14:22:00,"Shah, Khushali P"
+"Hall, Lydia S",2009-04-01T14:22:00,"Hoyle, Peggy A"
+"Hall, Lydia S",2009-04-01T14:22:00,"Kennedy, Patrick F"
+"Hall, Lydia S",2009-04-01T16:18:00,"Hall, Lydia S"
+"Hall, Lydia S",2009-04-01T16:18:00,"Dietz,"
+"Hall, Lydia S",2009-04-01T16:18:00,"Kennedy, Patrick F"
+"Hall, Lydia S",2009-04-01T16:18:00,"Retzlaff, Barbara A"
+"Hall, Lydia S",2009-04-01T16:18:00,"Greene, Richard L"
+"Hall, Lydia S",2009-04-01T16:18:00,"Shah, Khushali P"
+"Hall, Lydia S",2009-04-01T16:18:00,"Hoyle, Peggy A"
+"Greene, Richard L",2009-04-01T16:32:00,"Mills, Cheryl D"
+"Greene, Richard L",2009-04-01T16:32:00,"Lew, Jacob J"
+"Bishop, Christopher W",2009-04-01T16:40:00,S
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T16:44:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T16:45:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-01T16:45:00,"Sullivan, Jacob J"
+"Kennedy, Patrick F",2009-04-01T18:13:00,"Mills, Cheryl D"
+"Kennedy, Patrick F",2009-04-01T18:13:00,"Mills, Cheryl D"
+"Kennedy, Patrick F",2009-04-01T18:13:00,"Toiv, Nora F"
+"Kennedy, Patrick F",2009-04-01T18:13:00,"'mvwcarpenter               Toiv, Nora F"
+H <hdr22@clintonemail.com>,2009-04-02T01:33:20,"Valmoro, Lona J"
+"Valmoro, Lona J <ValmoroU@state.gov >",2009-04-02T06:03:00,H
+H [mailto:hdr22@clintonemail.com],2009-04-02T11:26:00,"Steinberg, James B"
+"Steinberg, James B <SteinbergJB@state.gov>",2009-04-02T12:32:00,H
+"Mills, Cheryl D",2009-04-02T13:08:52,"McDonough, Denis R."
+"Mills, Cheryl D",2009-04-02T13:08:52,"Steinberg, James B"
+"Mills, Cheryl D",2009-04-02T13:08:52,"Sullivan, Jacob J"
+"Mills, Cheryl D",2009-04-02T13:08:52,"Kennedy, Patrick F"
+"McDonough, Denis R. [mailto:",2009-04-02T13:13:00,"Mills, Cheryl D"
+"McDonough, Denis R. [mailto:",2009-04-02T13:13:00,"Steinberg, James B"
+"McDonough, Denis R. [mailto:",2009-04-02T13:13:00,"Sullivan, Jacob J"
+"McDonough, Denis R. [mailto:",2009-04-02T13:13:00,"Kennedy, Patrick F"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-02T13:21:00,H
+"Rodriguez, Miguel E",2009-04-03T00:46:00,"Pella, Laura"
+"Rodriguez, Miguel E",2009-04-03T00:46:00,"Sullivan, Jacobi"
+"Rodriguez, Miguel E",2009-04-03T00:46:00,"Shapiro, Andrew J"
+"Rodriguez, Miguel E",2009-04-03T00:46:00,"Mills, Cheryl D"
+"Rodriguez, Miguel E",2009-04-03T00:46:00,"Samuelson, Heather F"
+Cherie Blair,2009-04-03T10:08:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-03T11:55:00,H
+Cherie Blair,2009-04-03T12:11:00,H
+"Donoghue, Joan E",2009-04-03T12:27:00,"Mills, Cheryl D"
+"Donoghue, Joan E",2009-04-03T12:27:00,"Steinberg, James B"
+"Donoghue, Joan E",2009-04-03T12:27:00,"Crocker, Bathsheba N"
+"Donoghue, Joan E",2009-04-03T12:27:00,"Deeks, Ashley S"
+"Donoghue, Joan E",2009-04-03T12:27:00,"Spector, Phillip M"
+H <hdr22@clintonemail.com>,2009-04-03T16:56:00,Cherie Blair                                                                                                               B6
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-03T17:32:00,H
+H [mailto:hdr22@clintonemail.com],2009-04-03T18:43:00,"Mills, Cheryl D"
+H [mailto:hdr22@clintonemail.com],2009-04-03T18:43:00,Cheryl Mills
+"Mills, Cheryl D <MillsCD©state.gov > •",2009-04-03T18:45:00,Cheryl Mills
+"Mills, Cheryl D <MillsCD©state.gov > •",2009-04-03T18:45:00,H
+Cherie Blair                                                             B6,2009-04-04T07:46:00,H
+Nicholas Blair [mailto,2009-04-04T12:02:00,Cherie Blair
+"Rice, Susan E (USUN) [mailto:RiceSE@state.gov]",2009-04-04T15:08:00,cheryl.mills
+"Rice, Susan E (USUN) [mailto:RiceSE@state.gov]",2009-04-04T15:08:00,cmills@state.gov
+H <hdr22@clintonemail.com>,2009-04-04T15:40:08,Cheryl Mills <
+H <hdr22@clintonemail.com>,2009-04-04T15:40:08,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-04T15:42:00,cmills
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-04T15:42:00,H
+"Shannon, Thomas A",2009-04-04T16:20:38,"Mills, Cheryl D"
+Cheryl Mills,2009-04-04T16:24:59,"Rice, Susan E (USUN)"
+Cheryl Mills,2009-04-04T16:24:59,cmills@state.gov
+Cheryl Mills,2009-04-04T16:24:59,"Steinberg, James B"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-04T23:18:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-05T06:21:00,H
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Mills, Cheryl D"
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Sullivan, Jacob 3"
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Kelly, Craig A"
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Shannon, Thomas A"
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Davidow, Jeffrey S"
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Muscatine, Lissa"
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Sullivan, Jacob 3"
+"Slaughter, Anne-Marie",2009-04-05T17:01:00,"Mills, Cheryl D"
+Tom Freedman [mailto,2009-04-05T21:45:00,Cheryl Mills
+jake.sullivan,2009-04-05T22:19:00,H
+Cheryl Mills <,2009-04-06T05:06:00,H
+Cheryl Mills <,2009-04-06T05:06:00,"williamsbarret1         Sullivan, Jacob J'"
+cheryl.mills,2009-04-06T05:33:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-06T05:38:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-06T05:38:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-06T05:38:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-06T05:38:00,"Sullivan, Jacob J"
+"""Mills, Cheryl D""",2009-04-06T05:38:27-04:00,<hdr22@clintonemail.com>
+"Mills, Cheryl D <MillsCD©state.gov>",2009-04-06T05:40:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-06T05:43:00,H
+H [mailto:hdr22@clintonemail.com],2009-04-06T06:08:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-06T07:36:00,H
+"Bloom, Evan T (OES)",2009-04-06T14:32:00,"Rooney, Megan"
+"Bloom, Evan T (OES)",2009-04-06T14:32:00,"Rooney, Megan"
+"Bloom, Evan T (OES)",2009-04-06T14:32:00,"Rooney, Megan"
+"Rooney, Megan",2009-04-06T14:47:00,"Sullivan, Jacob 3"
+"Rooney, Megan",2009-04-06T14:47:00,"Mills, Cheryl D"
+"Mills, Cheryl D",2009-04-06T15:05:31,"Sullivan, Jacob 3"
+"Mills, Cheryl D",2009-04-06T15:05:31,"Rooney, Megan"
+"""Mills, Cheryl D""",2009-04-06T15:05:59-04:00,<hdr22@c1intonemail.com>
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-06T15:06:00,H
+Mildred Otero,2009-04-06T16:41:25,"Mills, Cheryl D                                                                    B6"
+Mildred Otero,2009-04-06T16:41:25,"Pena, Laura"
+Mildred Otero,2009-04-06T16:41:25,""
+"Sullivan, Jacob 3",2009-04-06T16:55:00,"Mills, Cheryl D"
+"Sullivan, Jacob 3",2009-04-06T16:55:00,"Rooney, Megan"
+"Rooney, Megan",2009-04-06T17:03:00,"Sullivan, Jacob 3"
+"Rooney, Megan",2009-04-06T17:03:00,"Mills, Cheryl D"
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-06T20:00:00,"Abedin, Huma"
+newmyer               on behalf of Jackie Newmyer <newmyer,2009-04-06T21:50:00,H
+Jackie Newmyer,2009-04-06T21:50:29-04:00,<hdr22@clintonemail.com>
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-07T06:17:00,H
+H [mailto:hdr22(aclintonemail.com],2009-04-07T07:25:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-07T07:55:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-07T07:57:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-08T05:02:00,H
+newmyer,2009-04-08T07:42:00,H
+"""H""",2009-04-08T11:22:08+00:00,Jackie Newmyer
+"""Mills, Cheryl D""",2009-04-08T17:51:56-04:00,<hdr22@clintonemail.com>
+"Mills, Cheryl D <MillsCD©state.gov>",2009-04-08T17:52:00,H
+"Mills, Cheryl D <MillsCD©state.gov>",2009-04-08T17:52:00,"Abedin, Huma"
+"Jiloty, Lauren C <JilotyLC©state.goy>",2009-04-08T19:23:00,"Abedin, Huma"
+"Jiloty, Lauren C <JilotyLC©state.goy>",2009-04-08T19:23:00,H
+H [mailto:hdr22clintonemail.com],2009-04-08T19:54:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-08T20:55:00,H
+"Froman, Michael B. [mailto:",2009-04-09T05:14:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-09T07:35:00,"Mills, Cheryl D"
+cheryl.mills,2009-04-09T21:19:00,H
+Hrc New,2009-04-09T21:19:00,Cheryl Mills
+cheryl.mills,2009-04-09T21:42:00,H
+cheryl.mills,2009-04-10T07:50:00,H
+H <hdr22Pclintonemail.com >,2009-04-10T07:50:33,"Mills, Cheryl D"
+H <hdr22Pclintonemail.com >,2009-04-10T07:50:33,Cheryl Mills
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-10T07:55:00,cheryl.mills
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-10T07:55:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-10T12:14:00,H
+"Abedin, Huma",2009-04-10T18:26:00,Hillary Clinton
+H <hdr22@clintonemail.com>,2009-04-10T18:28:59,"Abed in, Huma"
+"Abed in, Huma <AbedinH@state.gov>",2009-04-10T19:15:00,H
+Cheryl Mills,2009-04-11T13:36:00,H
+Cheryl Mills <cheryl.milk                                                              B6,2009-04-11T14:00:00,'Cheryl Mills'
+"Sullivan, Jacob 3",2009-04-11T14:24:55,"Abedin, Huma"
+"""Abedin, Huma""",2009-04-11T17:53:44-04:00,<hr15@att.blackberry.net>
+H,2009-04-11T18:08:43,"Abedin, Huma"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-11T18:11:00,H
+H,2009-04-11T18:19:00,Jake Sullivan
+jake.sullivan,2009-04-11T18:19:00,H
+cheryl.mills,2009-04-11T18:24:00,H
+cheryl.mills,2009-04-11T18:24:00,H
+"jake.sullivar,",2009-04-11T18:40:00,H
+jake.sullivar,2009-04-11T18:56:00,H
+"Brimmer, Esther D",2009-04-12T01:24:00,"Mills, Cheryl D"
+Barbara Mikulski,2009-04-12T12:03:00,Hillary Clinton
+Barbara Mikulski,2009-04-12T12:03:00,Hillary Clinton
+Hrc New,2009-04-12T13:30:00,Cheryl Mills
+cheryl.mills,2009-04-12T13:31:00,H
+H <hdr22@clintonemail.com>,2009-04-12T13:35:04,"Mikulski, BAM (Mikulski)"
+H <hdr22@clintonemail.com>,2009-04-12T13:35:04,"Mikulski, BAM (Mikulski)"
+cheryl.mills,2009-04-12T16:22:00,H
+cheryl.mills,2009-04-12T16:22:00,Cheryl Mills
+"Mikulski, BAM (Mikulski) <BAM@Mikulski.senate.gov >",2009-04-12T18:53:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-12T20:50:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-12T20:50:00,cheryl.mills
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-12T20:50:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-12T21:12:00,H
+H <hdr22@clintonemail.com>,2009-04-13T07:09:00,Bill Burns <wburns66
+H <hdr22@clintonemail.com>,2009-04-13T07:11:15,"Mikulski, BAM (Mikulski)"
+cheryl.mills,2009-04-13T07:14:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-13T08:13:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-13T08:13:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-13T08:13:05,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-13T08:13:05,"Abedin, Huma <AbedinH@state.gov>"
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-13T08:42:00,H
+"Mikulski, BAM (Mikulski) <BAM@Mikulski.senate.gov >",2009-04-13T08:57:00,H
+Brooke Shearer,2009-04-13T09:29:00,hdr22@clintonemail.com
+H <hrod17@clintonemail.com>,2009-04-13T11:09:00,'millscd@state.gov'
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-13T12:04:00,H
+wburns66,2009-04-13T13:07:00,H
+"Ilic, Werner X",2009-04-13T14:46:00,Kabul LGF Request
+"Nelson, David D",2009-04-13T15:30:00,"Mills, Cheryl D"
+"Stremlau, Matthew H",2009-04-13T15:44:00,"Mills, Cheryl D"
+"Stremlau, Matthew H",2009-04-13T15:44:00,"Toiv, Nora F"
+"Stremlau, Matthew H",2009-04-13T15:44:00,"Slaughter, Anne-Marie"
+Ellen Tauscher [mailto,2009-04-13T17:39:00,"Mills, Cheryl D"
+Ellen Tauscher,2009-04-13T17:39:00,"Mills, Cheryl D"
+Ellen Tauscher [mailto:,2009-04-13T17:39:00,"Mills, Cheryl D"
+Jake Sullivan <jake.sullivar,2009-04-13T18:38:00,H
+Jake Sullivan <jake.sullivar,2009-04-13T18:38:00,Cheryl Millsl
+Robert Danford [mailto,2009-04-14T13:05:00,"Mills, Cheryl D"
+"Lash, Fred C (PACE) [mailto:LashFC@state.gov]",2009-04-14T13:57:00,PAO Group
+"Lash, Fred C (PACE) [mailto:LashFC@state.gov]",2009-04-14T13:57:00,PAO Group
+"Lash, Fred C (PACE) [mailto:LashFC@state.gov]",2009-04-14T13:57:00,PAO Group
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T14:02:00,H
+"Crowley, Philip",2009-04-14T14:45:00,"Slaughter, Anne-Marie"
+"Crowley, Philip",2009-04-14T14:45:00,ReinesPI
+"Crowley, Philip ]",2009-04-14T14:45:00,ReinesPI
+"Crowley, Philip ]",2009-04-14T14:45:00,"Kelly, Ian C"
+"Crowley, Philip ]",2009-04-14T14:45:00,"Mills, Cheryl D"
+"Crowley, Philip ]",2009-04-14T14:45:00,"Muscatine, Lissa"
+"Crowley, Philip ]",2009-04-14T14:45:00,"Slaughter, Anne-Marie"
+"Crowley, Philip",2009-04-14T14:45:00,"Kelly, Ian C"
+"Crowley, Philip",2009-04-14T14:45:00,"Mills, Cheryl D"
+"Crowley, Philip J",2009-04-14T14:45:00,"Mills, Cheryl D"
+"Crowley, Philip J",2009-04-14T14:45:00,"Kelly, Ian C"
+"Crowley, Philip J",2009-04-14T14:45:00,ReinesPI
+"Crowley, Philip J",2009-04-14T14:45:00,"Slaughter, Anne-Marie"
+"Crowley, Philip J",2009-04-14T14:45:00,"Muscatine, Lissa"
+"Crowley, Philip",2009-04-14T14:45:00,"Muscatine, Lissa"
+"Cue, Lourdes C",2009-04-14T15:34:00,"Mills, Cheryl D"
+"Cue, Lourdes C",2009-04-14T15:34:00,"Muscatine, Lissa"
+"Cue, Lourdes C",2009-04-14T15:34:00,"Sullivan, Jacob 3"
+"Jones, Kali C",2009-04-14T16:44:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T17:30:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T17:30:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T17:32:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T17:32:00,"Sullivan, Jacob J"
+"Mills, Cheryl D",2009-04-14T17:32:00,'hdr22@clintonemail.com'
+"Mills, Cheryl D",2009-04-14T17:32:00,"Abedin, Huma"
+"Mills, Cheryl D",2009-04-14T17:32:00,"Sullivan, Jacob)"
+"Mills, Cheryl D",2009-04-14T17:32:00,ihdr22@clintonemail.corni
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T17:32:00,"Abedin, Huma"
+"Mills, Cheryl D",2009-04-14T17:32:00,"Abedin, Huma"
+"Mills, Cheryl D",2009-04-14T17:32:00,"Sullivan, Jacob J"
+"Abedin, Huma",2009-04-14T19:00:00,ihdr22@clintonemail.comi
+"Abedin, Huma",2009-04-14T19:00:00,"Mills, Cheryl D"
+"Abedin, Huma <AbedinH@state.gov >",2009-04-14T19:00:00,"Sullivan, Jacob J"
+"Abedin, Huma <AbedinH@state.gov >",2009-04-14T19:00:00,H
+"Abedin, Huma <AbedinH@state.gov >",2009-04-14T19:00:00,"Mills, Cheryl D"
+"Abedin, Huma",2009-04-14T19:00:00,"Sullivan, Jacob)"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T22:00:55,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T22:37:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T22:37:00,"Verveer, Melanne S"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T22:37:00,"Sullivan, Jacob J"
+Lissa Muscatine,2009-04-14T22:58:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T23:04:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-14T23:09:00,H
+Ellen Tauscher [mailto,2009-04-15T00:51:00,"Mills, Cheryl D"
+Ellen Tauscher [mailto:,2009-04-15T00:51:00,"Mills, Cheryl D"
+Ellen Tauscher rmailto,2009-04-15T00:51:00,"Mills, Cheryl D"
+Ellen Tauscher [mailto:,2009-04-15T00:51:00,"Mills, Cheryl D"
+"' Mills, Cheryl D <MillsCD@state.gov>",2009-04-15T08:17:00,H
+H <hrod17@clintonemail.com>,2009-04-15T08:23:00,'millscd@state.gov'
+Ellen Tauscher [mailto,2009-04-15T14:37:00,"Mills, Cheryl D"
+Ellen Tauscher [mailto:,2009-04-15T14:37:00,"Mills, Cheryl D"
+Ellen Tauscher [mailto:,2009-04-15T14:37:00,"Mills, Cheryl D"
+"Pefia, Laura",2009-04-15T14:59:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-15T15:46:00,H
+"""Mills, Cheryl D""",2009-04-15T15:48:23-04:00,Ellen Tauscher<
+"""Mills, Cheryl D""",2009-04-15T15:48:23-04:00,Ellen Tauscher<
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-15T15:49:00,H
+eotauscher,2009-04-15T16:28:00,"Mills, Cheryl D"
+eotauscher                                                                                             B6,2009-04-15T16:28:00,"Mills, Cheryl D"
+Paul Collier,2009-04-15T20:44:55,"Sullivan, Jacob 3"
+Paul Collier,2009-04-15T20:44:55,"Sullivan, Jacob"
+H <HDR22@clintonemail.com>,2009-04-15T22:51:52,"Valmoro, Lona 1"
+H <HDR22@clintonemail.com>,2009-04-15T22:51:52,'HAbedin
+Lissa Muscatine                                                          B6,2009-04-15T23:51:00,H
+"""Jean-Louis Warnholz""",2009-04-16T01:31:16,"""Paul Collier'"
+"""Jean-Louis Warnholz""",2009-04-16T01:31:16,"""Paul Collier'"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-16T06:12:35,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-16T06:13:00,H
+"Valmoro, Lona 1 <ValmoroU@state.gov>",2009-04-16T06:18:00,H
+"Valmoro, Lona 1 <ValmoroU@state.gov>",2009-04-16T06:18:00,HAbedin
+Ellen Tauscher [mailto,2009-04-16T07:17:00,"Mills, Cheryl D"
+Ellen Tauscher [mailto,2009-04-16T07:17:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-16T08:01:00,H
+H <hrod17@clintonemail.com >,2009-04-16T08:21:00,'millscd@state.gov'
+H <hrod17@clintonemail.com>,2009-04-16T08:21:00,'millscd@state.gov'
+"Samuelson, Heather F",2009-04-16T09:37:00,"Mills, Cheryl D"
+"Samuelson, Heather F",2009-04-16T09:37:00,"Kennedy,"
+"Samuelson, Heather F",2009-04-16T09:37:00,"Hardy, Sharon L"
+"Samuelson, Heather F",2009-04-16T09:37:00,"Bisdee, Sharon C"
+"Samuelson, Heather F",2009-04-16T09:37:00,'Marlon D Marshall'
+"Samuelson, Heather F",2009-04-16T09:37:00,"Pena, Laura"
+"Samuelson, Heather F",2009-04-16T09:37:00,"Sullivan, Jacob 3"
+"Samuelson, Heather F",2009-04-16T09:37:00,"Toiv, Nora F"
+"Samuelson, Heather F",2009-04-16T09:37:00,"Verma, Richard R"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-16T11:10:00,cmarshal
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-16T11:10:00,williamsbarrett           Minyon Moore
+Saif Khan [mailto:,2009-04-16T17:26:00,Burns Strider
+Saif Khan [mailto:,2009-04-16T17:26:00,Burns Strider
+Burns Strider,2009-04-16T17:31:05,Doug Band
+Burns Strider <,2009-04-16T17:31:05,Doug Band
+Burns Strider,2009-04-16T17:31:05,H
+Burns Strider <,2009-04-16T17:31:05,H
+"Nash, Ardenia R (INL/FO)",2009-04-16T17:56:00,"Johnson, David T"
+H <hrod17@clintonemail.com>,2009-04-17T13:16:00,'JilotyLC@state.gov'
+H [mailto:HDR22@clintonemail.com],2009-04-17T13:16:00,"Jiloty, Lauren C"
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-04-17T15:54:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-04-17T15:54:00,Huma Abedin
+H [mailto:HDR22@clintonemail.com],2009-04-17T19:58:00,'cheryl.mills
+Cheryl Mills <cheryl.mills,2009-04-18T10:33:00,H
+"Abedin, Huma <AbedinH@state.gov>",2009-04-19T18:58:39,H2
+"Abedin, Huma <AbedinH@state.gov>",2009-04-19T18:59:00,H2
+H <hrod17@clintonemail.com>,2009-04-19T19:47:00,'AbedinH@state.gov'
+Margaret V. W. Carpenter [mailto,2009-04-20T07:04:00,"Mills, Cheryl D"
+Margaret V. W. Carpenter [mailto,2009-04-20T07:04:00,"Carpenter, Margaret V.W."
+Margaret V. W. Carpenter [mailto:,2009-04-20T07:04:00,"Carpenter, Margaret V.W."
+Margaret V. W. Carpenter [mailto:,2009-04-20T07:04:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-20T07:55:41,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-20T07:56:00,H
+H <hrod17@clintonemail.com>,2009-04-20T08:19:00,'millscd@state.gov'
+"Caputo, Lisa",2009-04-20T11:48:43,H
+Hrc New,2009-04-20T20:09:00,Cheryl Mills
+cheryl.mills,2009-04-20T21:15:00,H
+"Lew, Jacob",2009-04-20T22:46:00,"Mills, Cheryl D"
+H <HDR22@clintonemail.com>,2009-04-21T07:03:13,"Valmoro, Lona J"
+H <HDR22@clintonemail.com>,2009-04-21T07:03:13,'HAbedin
+H,2009-04-21T07:05:00,liake.Sullivan
+H <hrod17@clintonemail.com >,2009-04-21T07:06:00,'Jake.Sullivan
+H,2009-04-21T07:16:00,liake.Sullivan
+H <hrod17@clintonemail.com>,2009-04-21T07:16:00,'Jake.Sullivar
+H,2009-04-21T07:16:00,I HAbedin                                                                                           B6
+H <hrod17@clintonemail.com>,2009-04-21T07:16:00,'HAbedir
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-04-21T07:19:00,H
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-04-21T07:19:00,HAbedin
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-21T07:39:00,H
+jake.sullivan,2009-04-21T07:42:00,H
+jake.sullivan                                                                B6,2009-04-21T07:43:00,H
+jake.sullivan                                                                B6,2009-04-21T07:43:00,'HAbedin                                                              B6
+Jackie Newmyer <                                                                          B61,2009-04-21T11:24:00,H
+H <hrod17@clintonemail.com >,2009-04-21T11:28:00,'JilotyLC@state.gov.
+H [mailto:HDR22@clintonemail.com],2009-04-21T11:28:00,"Jiloty, Lauren C"
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-21T11:30:00,H
+AmbEFBag16,2009-04-21T15:23:00,cheryl.mills
+"Rodriguez, Miguel E",2009-04-21T17:42:00,"Polt, Michael C"
+"Rodriguez, Miguel E",2009-04-21T17:42:00,"Verma, Richard R"
+"Rodriguez, Miguel E",2009-04-21T17:42:00,"Sullivan, Jacob 3"
+"Rodriguez, Miguel E",2009-04-21T17:42:00,"Mills, Cheryl D"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T17:44:38,H2
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T17:44:38,H2
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T17:45:00,H2
+"Mills, Cheryl D",2009-04-21T18:07:00,"Hill, Christopher R"
+"Hill, Christopher R",2009-04-21T18:08:00,"Mills, Cheryl D"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T18:32:54,H2
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T18:33:00,H2
+H <hrod17@clintonemail.com>,2009-04-21T18:36:00,'AbedinH@state.gov'
+H <hrod17@clintonemail.com>,2009-04-21T19:13:00,'AbedinH@state.gov'
+H [mailto:HDR22@clintonemail.com],2009-04-21T19:13:00,"Abedin, Huma"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T20:06:00,H2
+"Abedin, Huma <AbedinH@state.goy>",2009-04-21T20:06:07,H2
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T20:06:07,H2
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T20:06:07,H2
+H <hrod17©clintonemail.com >,2009-04-21T20:14:00,'AbedinH@state.gov'
+H <HDR22@clintonemail.com>,2009-04-21T20:14:10,"Abedin, Huma"
+H <HDR22@clintonemail.com>,2009-04-21T20:14:10,"Abedin, Huma"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T20:14:45,H
+"Abedin, Huma <AbedinH@state.gov>",2009-04-21T20:15:00,H
+H <hrod17@clintonemail.com >,2009-04-21T20:55:00,'Jake.Sulliyan
+H <hrod17@clintonemail.com>,2009-04-21T21:05:00,'AbedinH@state.gov'
+Jake Sullivan,2009-04-21T21:58:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-21T22:30:00,H
+Jake Sullivan                                                                        B6,2009-04-21T23:02:00,H
+Jake Sullivan <,2009-04-21T23:02:06,H
+Jake Sullivan <                               >,2009-04-21T23:02:06,H
+Jake Sullivan <,2009-04-21T23:02:06,H
+Jake Sullivan <,2009-04-21T23:08:37,H
+Jake Sullivan <,2009-04-21T23:09:00,H
+Jake Sullivan <,2009-04-21T23:19:00,H
+Jake Sullivan <,2009-04-21T23:26:00,H
+Jake Sullivan <,2009-04-21T23:26:10,H
+Jake Sullivan <,2009-04-21T23:40:00,H
+Cheryl Mills <,2009-04-22T06:14:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-22T07:54:00,H
+"Jiloty, Lauren C",2009-04-22T17:54:11,"Jiloty, Lauren C"
+H,2009-04-23T06:43:41,'Jake.Sullivar           <Jake.Sullivar   o
+H <hrod17@clintonemail.com>,2009-04-23T06:44:00,'Jake.Sullivar
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-04-23T07:00:00,H
+H <hrod17@clintonemail.com >,2009-04-23T07:36:00,'abedinh@state.gov'
+"Kennedy, Patrick F",2009-04-24T08:08:00,"Mills, Cheryl D"
+"Kennedy, Patrick F",2009-04-24T08:08:00,"Mills, Cheryl D"
+"Kennedy, Patrick F",2009-04-24T08:08:00,"Mills, Cheryl D"
+"Lew, Jacob",2009-04-24T08:09:00,"Mills, Cheryl D"
+"Pena, Laura",2009-04-24T11:17:00,"Mills, Cheryl D"
+"Mills, Cheryl D",2009-04-24T12:22:30,"Holbrooke, Richard C"
+"Mills, Cheryl D",2009-04-24T12:22:30,"Lew, Jacob J"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T12:29:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T12:40:00,H
+"Perla, Laura",2009-04-24T12:56:00,"Mills, Cheryl D"
+"Perla, Laura",2009-04-24T12:56:00,"Samuelson, Heather F"
+"Perla, Laura",2009-04-24T12:56:00,"Patel, Shraddha"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-24T13:27:00,H2
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T13:50:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T13:50:00,"Abedin, Huma"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T13:50:06,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T13:50:06,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T13:50:06,"Abedin, Huma <AbedinH@state.gov>"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T13:50:06,"Abedin, Huma <AbedinH@state.gov>"
+"Brimmer, Esther D",2009-04-24T14:38:00,"Mills, Cheryl D"
+"Brimmer, Esther D",2009-04-24T14:38:00,"Toiv, Nora F"
+H <hrod17@clintonemail.com >,2009-04-24T16:22:00,'millscd@state.gov'
+H [mailto:HDR22@clintonemail.com],2009-04-24T16:22:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T16:35:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-24T16:36:00,H
+"Lavy, Brendan L",2009-04-24T17:49:00,D(S)_SteinbergDailySchedule
+Capricia Penavic Marshall I,2009-04-24T17:59:00,""
+Capricia Penavic Marshall I,2009-04-24T17:59:00,"Begala, Paul"
+"Holbrooke, Richard C",2009-04-24T23:41:35,"Mills, Cheryl D"
+"Abedin, Huma <AbedinH@state.gov >",2009-04-25T06:43:00,H2
+"Abedin, Huma <AbedinH@state.gov>",2009-04-25T06:43:00,H2
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-25T08:45:00,H
+"Burns, William J",2009-04-25T15:47:52,"Mills, Cheryl D"
+"Burns, William J",2009-04-25T15:47:52,"Kennedy, Patrick F"
+"Burns, William J",2009-04-25T15:47:52,"Verma, Richard R"
+"Burns, William J",2009-04-25T15:47:52,"Kennedy, Patrick F"
+"Burns, William J",2009-04-25T15:47:52,"Mills, Cheryl D"
+"Burns, William ]",2009-04-25T15:47:52,"Kennedy, Patrick F"
+"Burns, William ]",2009-04-25T15:47:52,"Verma, Richard R"
+"Burns, William ]",2009-04-25T15:47:52,"Mills, Cheryl D"
+"Burns, William J",2009-04-25T15:47:52,"Verma, Richard R"
+Hrc New,2009-04-25T16:32:00,Cheryl Mills
+cheryl.mills,2009-04-25T16:44:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-26T10:29:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-26T10:29:11,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-26T10:29:11,H
+"Abedin, Huma <AbedinH@state.gov>",2009-04-26T12:38:00,H2
+H <hrod17@clintonemail.com>,2009-04-26T20:44:00,'millscd@state.gov'
+H [mailto:HDR22@clintonemail.com],2009-04-26T20:44:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MilIsCD@state.gov>",2009-04-26T20:56:00,H
+"Abedin, Huma <AbedinH@state.gov>",2009-04-26T21:35:00,H2
+"Mills, Cheryl D <MillsCD©state.gov>",2009-04-26T21:43:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-26T21:54:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-26T21:55:00,H
+"Boucher, Richard A",2009-04-27T10:09:00,"Burns, William 1"
+"Boucher, Richard .A",2009-04-27T10:09:00,"Russell, Daniel A"
+"Boucher, Richard .A",2009-04-27T10:09:00,"Thomas, Harry K (Director General)"
+"Boucher, Richard .A",2009-04-27T10:09:00,"Mills, Cheryl D"
+"Boucher, Richard .A",2009-04-27T10:09:00,"Burns, William 3"
+"Boucher, Richard A",2009-04-27T10:09:00,"Russell, Daniel A"
+"Boucher, Richard A",2009-04-27T10:09:00,"Thomas, Harry K (Director General)"
+"Boucher, Richard A",2009-04-27T10:09:00,"Mills, Cheryl D"
+"Boucher, Richard A",2009-04-27T10:09:00,"Burns, William J"
+"Boucher, Richard A",2009-04-27T10:09:00,"Russell, baniel A"
+"Boucher, Richard A",2009-04-27T10:09:00,"Thomas, Harry K (Director General)"
+"Boucher, Richard A",2009-04-27T10:09:00,"Mills, Cheryl D"
+Jan Piercy [mailto,2009-04-27T11:06:00,"Mills, Cheryl D"
+Jan Piercy [mailto:,2009-04-27T11:06:00,"Carpenter, Margaret V.W."
+Jan Piercy [mailto:,2009-04-27T11:06:00,"Mills, Cheryl D"
+Jan Piercy [mailto,2009-04-27T11:06:00,"Carpenter, Margaret V.W."
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-27T11:24:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-27T11:24:13,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-27T11:24:13,H
+"Slaughter, Anne-Marie",2009-04-27T12:14:00,"Sullivan, Jacob J"
+"Slaughter, Anne-Marie",2009-04-27T12:14:00,"Sullivan, Jacob J"
+"Slaughter, Anne-Marie",2009-04-27T12:14:00,"Mills, Cheryl D"
+"Slaughter, Anne-Marie",2009-04-27T12:14:00,"Mills, Cheryl D"
+"Mills, Cheryl D [mailto:MillsCD@state.gov]",2009-04-27T13:37:00,Jim Kennedy
+"Mills, Cheryl D [mailto:MillsCDAstate.gov]",2009-04-27T13:37:00,Jim Kennedy
+"Mills, Cheryl D [mailto:MillsCDAstate.gov]",2009-04-27T13:37:00,Tom Freedman
+"Mills, Cheryl D [mailto:MillsCD@state.gov]",2009-04-27T13:37:00,Tom Freedman
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-27T14:19:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-27T14:19:09,H
+"Ruffini, Julio",2009-04-27T17:45:00,"Nolan, Sarah E"
+"Ruffini, Julio",2009-04-27T17:45:00,"Rodriguez, Miguel E"
+"Ruffini, Julio",2009-04-27T17:45:00,"O'Donnell, Edward B"
+"Ruffini, Julio",2009-04-27T17:45:00,"Polt, Michael C"
+"Ruffini, Julio",2009-04-27T17:45:00,"Verma, Richard R"
+"Ruffini, Julio",2009-04-27T17:45:00,"Bulgrin, Julie K"
+"Coleman, Claire L",2009-04-27T17:57:35,S
+H <HDR22@clintonemail.com>,2009-04-27T17:57:48-04:00,'
+H <HDR22@clintonemailcom>,2009-04-27T17:57:48-04:00,'
+H <HDR22@clintonemail.com>,2009-04-27T17:57:48-04:00,"""'newmyer                 <newmver"
+H <HDR22@clintonemailcom>,2009-04-27T17:57:48-04:00,"""newmyer@                <newmyer@"
+H <hrod17@clintonemail.com>,2009-04-27T18:08:00,'JilotyLC@state.gov.
+H [mailto:HDR22@clintonemail.com],2009-04-27T18:08:00,"Jiloty, Lauren C"
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-27T18:26:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-27T18:26:00,"Abedin, Huma"
+Jackie Newmyer,2009-04-27T18:51:00,H
+H <hrod17@clintonemail.com >,2009-04-27T20:34:00,'michele.fl
+H <hrod17@clintonemail.com >,2009-04-27T20:34:00,'newmyer
+Jim Kennedy                                                                                                            B6,2009-04-27T21:38:56,Tom Freedman
+Jim Kennedy,2009-04-27T21:38:56,Tom Freedman
+Jim Kennedy                                                                                                            B6,2009-04-27T21:38:56,"Mills, Cheryl D"
+Jim Kennedy,2009-04-27T21:38:56,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-28T05:28:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-28T05:28:02,H
+H <hrod17@clintonemail.com >,2009-04-28T05:40:00,'millscd@state.gov'
+"Mills, Cheryl D <MillsCD@state.gov >",2009-04-28T06:06:00,H
+"Mills, Cheryl D",2009-04-28T07:40:44,"McDonough, Denis R."
+"McDonough, Denis R. [mailto",2009-04-28T07:46:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-28T07:56:00,H
+"Begala, Paul",2009-04-28T09:18:25,Capricia Penavic Marshall
+Capricia Penavic Marshall IL,2009-04-28T09:30:00,"Adler, Caroline E (PACE)"
+Capricia Penavic Marshall IL,2009-04-28T09:30:00,"Abedin, Huma"
+Capricia Penavic Marshall IL,2009-04-28T09:30:00,Philippe Reines1
+Capricia Penavic Marshall IL,2009-04-28T09:30:00,"pbegala                     Mills, Cheryl D"
+Strobe Talbott,2009-04-28T09:46:25,H2
+H <hrod17@clintonemail.com >,2009-04-28T10:45:00,'cheryimills              'millscd@state.gov'
+"Begala, Paul",2009-04-28T14:09:00,"Mills, Cheryl D"
+Strobe Talbott [mailto,2009-04-28T17:44:00,"Toiv, Nora F"
+Strobe Talbott [,2009-04-28T17:44:00,"Toiv, Nora F"
+"Toiv, Nora F",2009-04-28T17:45:00,"Valmoro, Lana J"
+"Toiv, Nora F",2009-04-28T17:45:00,"Valmoro, Lona 1"
+"Valmoro, Lona J",2009-04-28T18:06:00,"Toiv, Nora F"
+"Valmoro, Lana J",2009-04-28T18:06:00,"Toiv, Nora F"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-28T18:31:00,H
+Jose.Fernandez,2009-04-28T18:37:46,"Mills, Cheryl D"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-28T19:05:00,H
+"Abedin, Huma",2009-04-28T20:34:43,"Hanley, Monica R"
+"Abedin, Huma",2009-04-28T20:34:43,"Hanley, Monica R"
+"Hanley, Monica R",2009-04-28T20:49:26,"Abedin, Huma"
+"Hanley, Monica R",2009-04-28T20:49:26,"Abedin, Huma"
+"Abedin, Huma <AbedinH@state.gov>",2009-04-28T20:56:00,H2
+"Abedin, Huma <AbedinH©state.gov>",2009-04-28T20:57:00,H2
+H <hrod17@clintonemail.com>,2009-04-28T21:30:00,'AbedinH@state.gov'
+H <HDR22@clintonemail.com>,2009-04-28T21:35:39,"Mills, Cheryl D"
+H <hrod17@clintonemail.com>,2009-04-28T21:36:00,'millscd@state.gov'
+H < hrod17@clintonemail.com>,2009-04-28T21:36:00,'millscd@state.gov'
+Todd Stern,2009-04-28T23:58:35,"Lew, Jacob J"
+Todd Stern,2009-04-28T23:58:35,"Sullivan, Jacob J"
+Todd Stern,2009-04-28T23:58:35,"Mills, Cheryl D"
+Todd Stern,2009-04-28T23:58:35,"Abedin, Huma"
+Todd Stern,2009-04-28T23:58:35,"Steinberg, James B"
+Todd Stern,2009-04-28T23:58:35,"Stern, Todd D (S/SECC)"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-29T02:22:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-29T03:18:00,H
+"Mills, Cheryl D",2009-04-29T03:37:25,"Valmoro, Lona 1"
+"Mills, Cheryl D",2009-04-29T03:37:25,"Valmoro, Lona 1"
+"Mills, Cheryl D",2009-04-29T03:37:25,"Mills, Cheryl D"
+"Mills, Cheryl D",2009-04-29T03:37:25,"Mills, Cheryl D"
+"Mills, Cheryl D",2009-04-29T03:37:25,"Toiv, Nora F"
+"Mills, Cheryl D",2009-04-29T03:37:25,"Toiv, Nora F"
+"Mills, Cheryl D <MiflsCD@state.gov>",2009-04-29T03:44:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-29T03:46:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-29T04:00:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-04-29T04:00:08,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-29T06:22:00,H
+H <hrod17@clintonemail.com >,2009-04-29T06:54:00,'millscd@state.gov'
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-29T22:31:00,"Abedin, Huma"
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-29T22:31:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-30T06:45:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-04-30T06:45:00,"Abedin, Huma"
+cheryl.mills                                                               B6,2009-04-30T12:38:00,H
+"Begala, Paul",2009-04-30T12:46:55,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCDOstate.gov >",2009-04-30T16:18:28,"Begala, Paul"
+"Mikulski, BAM (Mikulski) <BAM@Mikulski.senate.gov>",2009-04-30T20:09:00,H2
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-01T04:19:00,H
+"Kennedy, Patrick F",2009-05-01T07:34:00,"Ries, Marcie B"
+"Abedin, Huma <AbedinH©state.gov>",2009-05-01T07:50:00,H2
+"Mills, Cheryl D",2009-05-01T09:13:00,"'AmbEFBagley              Balderston, Kris M"
+"Mills, Cheryl D",2009-05-01T09:13:00,'Jake Sullivan'
+"Mills, Cheryl D",2009-05-01T09:13:00,"Smith, Daniel B"
+"Mills, Cheryl D",2009-05-01T09:13:00,"Abedin, Huma"
+"Sisk, Richard                                                                                                             B6",2009-05-01T12:02:00,1:9 Crowley
+"Ries, Marcie B",2009-05-01T13:38:00,"Scott, Kyle R"
+"Ries, Marcie B",2009-05-01T13:38:00,"Salisbury, Wayne S"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-01T14:33:00,H
+"Samuelson, Heather F",2009-05-01T16:44:00,"Mills, Cheryl D"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Mills, Cheryl D"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Toiv, Nora F"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Pena, Laura"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Toiv, Nora F"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Mills, Cheryl D"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Pella, Laura"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Toiv, Nora F"
+"Samuelson, Heather F",2009-05-01T16:44:00,"Peria, Laura"
+"Reines, Philippe I (PACE)",2009-05-01T16:49:00,(U)landler
+"Reines, Philippe I (PACE) [mailto:ReinesPi@state.gov]",2009-05-01T16:52:00,"Mills, Cheryl D"
+"Reines, Philippe I (PACE) [mailto:ReinesPi@state.gov]",2009-05-01T16:52:00,"Toiv, Nora F"
+"Mills, Cheryl D [mailto:MillsCD@state.gov]",2009-05-01T17:30:00,"Reines, Philippe I (PACE)"
+"Mills, Cheryl D [mailto:MillsCD@state.gov]",2009-05-01T17:30:00,"Toiv, Nora F"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-01T17:30:40,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-01T17:30:40,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-01T17:31:00,H
+"Kennedy, Patrick F",2009-05-01T19:00:50,"Mills, Cheryl D"
+"Kennedy, Patrick F",2009-05-01T19:00:50,"Toiv, Nora F"
+newmyer               on behalf of Jackie Newmyer                                        B6,2009-05-01T19:06:00,H
+David and Diane Weisz Young [mailto,2009-05-01T20:55:00,Bishop John R. Schol
+David and Diane Weisz Young [mailto,2009-05-01T20:55:00,Diane and Dave Weisz Young
+David and Diane Weisz Young [mailto,2009-05-01T20:55:00,David Young (on Hill)
+David and Diane Weisz Young [mailto,2009-05-01T20:55:00,Burns Strider
+"Abedin, Huma <AbedinH©state.gov>",2009-05-01T22:05:00,H2
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-02T07:23:00,H
+"Abedin, Huma <AbedinH©state.gov>",2009-05-02T07:30:00,H2
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-02T07:47:00,H
+"Abed in, Huma <AbedinH@state.goy>",2009-05-02T08:17:00,H2
+"Abed in, Huma <AbedinH@state.goy>",2009-05-02T08:17:00,Oscar Flores
+"Abedin, Huma",2009-05-02T09:22:45,'hr15@att.blackberry.net' <hr15@att.blackberry.net>
+"Abedin, Huma <AbedinH@state.gov>",2009-05-02T09:23:00,H2
+"Abedin, Huma",2009-05-02T11:37:55,Ihr15@att.blackberry.neti <hr15@att.blackberry.net>
+"Abedin, Huma <AbedinH@state.gov >",2009-05-02T11:38:00,H2
+H <hrod17@clintOnemail.com>,2009-05-02T11:52:00,'millscd@state.gov'
+H [mailto:HDR22@clintonemailcom],2009-05-02T11:52:00,"Mills, Cheryl D"
+"Abedin, Huma <AbedinH@state.gov>",2009-05-02T11:57:00,Oscar Flores
+"Abedin, Huma <AbedinH@state.gov>",2009-05-02T11:57:00,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-02T11:57:00,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-02T11:57:00,Oscar Flores
+"Abedin, Huma <AbedinH@state.gov>",2009-05-02T12:41:30,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-02T12:42:00,H
+H <hrod17@clintonemail.com >,2009-05-02T13:10:00,'AbedinH@state.gov'
+H <hrod17@clintonemail.com >,2009-05-02T13:37:00,'Jake.Sulliva
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-02T15:24:00,H
+Burns Strider,2009-05-02T17:45:57,H
+H <hrod17@clintonemail.com>,2009-05-02T17:49:00,'ValmoroLl@state.gov.
+H <hrod17@clintonemail.com>,2009-05-02T17:49:00,'HAbedin
+H <hrod17@clintonemail.com>,2009-05-03T08:19:00,'ValmoroU@state.gov'
+H <hrod17@clintonemail.com>,2009-05-03T08:19:00,'HAbedin                                                  B6
+H <HDR22@clintonemail.com>,2009-05-03T08:19:14,'HAbedin
+H <HDR22@clintonemail.com>,2009-05-03T08:19:14,'ValmoroU@state.gov' <ValmoroU@state.gov>
+Huma Abedin <Huma                                                                B6,2009-05-03T08:34:00,'habedin
+Huma Abedin <Huma                                                                B6,2009-05-03T08:34:00,H
+Huma Abedin <Huma                                                                B6,2009-05-03T08:34:00,'ValmoroLl@state.gov'
+"Abedin, Huma <AbedinH@state.gov>",2009-05-03T09:15:00,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-03T09:58:49,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-03T09:58:49,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-03T09:58:49,H
+"Abedin, Huma <AbedinH©state.gov>",2009-05-03T09:59:00,H
+H <HDR22@clintonemail.com>,2009-05-03T11:03:50,"Abedin, Huma"
+H <HDR22@clintonemail.com>,2009-05-03T11:03:50,"Abedin, Huma"
+H <hrod17@clintonemail.com>,2009-05-03T11:04:00,'AbedinH@state.gov'
+"Abedin, Huma <AbedinH©state.gov>",2009-05-03T11:23:00,H
+"Abedin, Huma",2009-05-03T11:23:19,ihdr22@clintonemail.com' <hdr22@clintonemail.com>
+"Abedin, Huma <AbedinH@state.gov>",2009-05-03T11:36:00,H
+"Mills, Cheryl D",2009-05-03T14:22:00,"Samuelson, Heather F"
+"Mills, Cheryl D",2009-05-03T14:22:00,"Kennedy, Patrick F"
+"Mills, Cheryl D",2009-05-03T14:22:00,"Pena, Laura"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-03T14:25:00,H
+H <HDR22@clintonemail.com>,2009-05-03T15:06:47,"Valmoro, Lona J                             B6"
+H <HDR22@clintonemail.com>,2009-05-03T15:06:47,ValmoroU@state.govl <VaIrnoroU@state.gov>   B6
+H <HDR22@clintonemail.com>,2009-05-03T15:06:47,'HAbedin                  <                            >
+H <HDR22@clintonemail.com>,2009-05-03T15:06:47,I HAbedin
+Huma Abedin <Huma@clintonemail.com >,2009-05-03T15:07:00,H
+Huma Abedin <Huma@clintonemail.com >,2009-05-03T15:07:00,'ValmoroU@state.gov                         B6
+Huma Abedin <Huma@clintonemail.com >,2009-05-03T15:07:00,'habedin
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-05-03T15:08:00,H
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-05-03T15:08:00,"HAbedin                                                              , B6"
+"Abedin, Huma <AbedinH@state.gov >",2009-05-03T15:21:00,H
+H <hrod17@clintonemail.com >,2009-05-04T08:45:00,'Jake.Sullivar
+H <hrod17@clintonemail.com>,2009-05-04T09:05:00,'filotyLC@state.gov'
+H [mailto:HDR22@clintonemail.com],2009-05-04T09:05:00,"Valmoro, Lona J"
+H [mailto:HDR22@clintonemail.com],2009-05-04T09:05:00,'HAbedin
+H <hrod17@clintonemail.com>,2009-05-04T09:05:00,'ValmoroU@state.gov'
+H <hrod17@clintonemail.com>,2009-05-04T09:05:00,'HAbedin
+H [mailto:HDR22@clintonemail.com],2009-05-04T09:05:00,"Jiloty, Lauren C"
+H [mailto:HDR22@clintonemail.com],2009-05-04T09:05:00,"Valmoro, Lona J"
+H [mailto:HDR22@clintonemail.com],2009-05-04T09:05:00,'HAbedir
+"Jiloty, Lauren C <JilotyLC©state.goy>",2009-05-04T09:08:00,H
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-05-04T09:21:00,H
+"Valmoro, Lona J <ValmoroU@state.gov>",2009-05-04T09:21:00,HAbedin
+Burns Strider,2009-05-04T09:36:17,H
+Bums Strider                                                                                            B6,2009-05-04T09:36:17,H
+H <hrod17@clintonemail.com >,2009-05-04T09:40:00,'cheryl.mills             'Jake.Sullivan
+"Valmoro, Lona J <VaImoroU@state.gov>",2009-05-04T09:41:00,HAbedin
+"Valmoro, Lona J <VaImoroU@state.gov>",2009-05-04T09:41:00,H
+Jake Sullivan <jake.sullivar _                                                 B6,2009-05-04T10:02:00,H
+Jake Sullivan <jake.sullivar _                                                 B6,2009-05-04T10:02:00,cheryl.mills
+"Abedin, Huma <AbedinH@state.gov>",2009-05-04T12:17:00,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-04T12:17:23,H
+"Abedin, Huma <AbedinH@state.gov>",2009-05-04T12:17:23,H
+"Boucher, Richard A",2009-05-04T12:44:00,"Mills, Cheryl D"
+"Boucher, Richard A",2009-05-04T12:44:00,"McLean, Lori A"
+H <HDR22@clintonemail.com>,2009-05-04T13:01:47,"Abedin, Huma"
+H <hrod17@clintonemail.com>,2009-05-04T13:02:00,'AbedinH@state.gov.
+"Abedin, Huma <AbedinH@state.gov>",2009-05-04T13:08:00,H
+"Smith, Daniel B",2009-05-04T13:41:00,"Mills, Cheryl D"
+"Smith, Daniel B",2009-05-04T13:41:00,"'AmbEFBagley             Balderston, Kris M"
+"Smith, Daniel B",2009-05-04T13:41:00,'Jake Sullivan'
+"Smith, Daniel B",2009-05-04T13:41:00,"Abedin, Huma"
+"Mills, Cheryl D",2009-05-04T14:26:00,"'AmbEFBagley              Balderston, Kris M"
+"Mills, Cheryl D",2009-05-04T14:26:00,'Jake Sullivan'
+"Mills, Cheryl D",2009-05-04T14:26:00,"Smith, Daniel B"
+"Mills, Cheryl D",2009-05-04T14:26:00,"Abedin, Huma"
+"Smith, Daniel B",2009-05-04T14:31:00,"Mills, Cheryl D"
+"Smith, Daniel B",2009-05-04T14:31:00,"'AmbEFBagley             Balderston, Kris M                                                          B6"
+"Smith, Daniel B",2009-05-04T14:31:00,'Jake Sullivan'
+"Smith, Daniel B",2009-05-04T14:31:00,"Abedin, Huma"
+"Abedin, Huma <AbedinH@state.gov>",2009-05-04T14:38:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-04T14:40:00,H
+"Abedin, Huma <AbedinH©state.gov>",2009-05-04T14:40:00,H
+Jake Sullivan <jake.sullivan,2009-05-04T15:19:05,H
+Jake Sullivan <jake.sullivar,2009-05-04T15:19:05,H
+H <hrod17@clintonemail.com >,2009-05-04T16:08:00,'Jake.Sulliva
+Jake Sullivan <jake.sullivan                                                        B6,2009-05-04T16:11:00,H
+"Ross, Alec J",2009-05-04T16:53:00,"Toiv, Nora F"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-04T16:57:00,H
+Richard Soca rides,2009-05-04T17:11:00,Jim Kennedyl
+Richard Soca rides,2009-05-04T17:11:00,Melanne Verveer
+Richard Soca rides,2009-05-04T17:11:00,Cheryl Mills1
+Richard Soca rides,2009-05-04T17:11:00,Cheryl Mills
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-04T17:17:25,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-04T17:17:25,Justin Cooper
+"Pena, Laura",2009-05-04T18:30:28,"Mills, Cheryl D"
+"Perla, Laura",2009-05-04T18:30:28,"Toiv, Nora F"
+"Perla, Laura",2009-05-04T18:30:28,"Toiv, Nora F"
+"Perla, Laura",2009-05-04T18:30:28,"Mills, Cheryl D"
+"Pena, Laura",2009-05-04T18:30:28,"Toiv, Nora F"
+"Perla, Laura",2009-05-04T18:30:28,"Mills, Cheryl D"
+H <hrod17@clintonemail.com>,2009-05-04T19:36:00,'millscd@state.gov'
+H <hrod17@clintonemail.com >,2009-05-04T19:58:00,'JilotyLC@state.gov.
+Cheryl Mills <cheryl.mill!,2009-05-04T20:15:00,'Cheryl Mills'
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-05T06:06:48,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-05T06:06:48,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-05T06:07:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-05-05T06:24:00,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-05-05T06:25:19,H
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-05-05T06:25:19,"Abedin, Huma <AbedinH@state.gov>"
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-05-05T06:25:19,"Abedin, Huma <AbedinH@state.gov>"
+"Jiloty, Lauren C <JilotyLC@state.gov>",2009-05-05T06:25:19,H
+H <hrod17@clintonemail.com>,2009-05-05T06:53:00,'JilotyLC@state.gov'
+H fmailto:HDR22@clintonemail.com],2009-05-05T06:53:00,"Jiloty, Lauren C"
+H <HDR22@clintonemail.com >,2009-05-05T07:11:53,'ValmoroU@state.govi <ValmoroU@state.gov>
+H <HDR22@clintonemail.com >,2009-05-05T07:11:53,'HAbedin                                                                 B6
+H <hrod17@clintonemail.com>,2009-05-05T07:12:00,'HAbedin
+H <hrod17@clintonemail.com>,2009-05-05T07:12:00,'ValmoroU@state.gov'
+Huma Abedin <Huma@clintonemail.com >,2009-05-05T08:02:00,H
+Huma Abedin <Huma@clintonemail.com >,2009-05-05T08:02:00,'ValmoroLl@state.gov.
+Huma Abedin <Huma@clintonemail.com >,2009-05-05T08:02:00,'habedin                                                     B6
+"Jiloty, Lauren C <JilotyLC@state.gov >",2009-05-05T08:12:00,H
+"Smith, Daniel B",2009-05-05T15:55:00,"Mills, Cheryl D"
+"Smith, Daniel B",2009-05-05T15:55:00,"Abedin, Huma"
+"Smith, Daniel B",2009-05-05T15:55:00,"Sullivan, Jacob J"
+"Smith, Daniel B",2009-05-05T15:55:00,"Abedin, Huma"
+"Smith, Daniel B",2009-05-05T15:55:00,"Mills, Cheryl D"
+"Smith, Daniel B",2009-05-05T15:55:00,"Sullivan, Jacob J"
+Wendy Sherman,2009-05-05T17:53:52,"Cheryl Mills1                           Mills, Cheryl D"
+Wendy Sherman <wsherman                                                                                  B6,2009-05-05T17:53:52,"Mills, Cheryl D"
+Wendy Sherman,2009-05-05T17:53:52,"Cheryl Mills1 <                         Mills, Cheryl D"
+Wendy Sherman <wshermar,2009-05-05T17:53:52,"Cheryl Mills1 <cheryl.mills              Mills, Cheryl D"
+Wendy Sherman <wsherman,2009-05-05T17:53:52,"Cheryl Mills1 <cheryl.mills             Mills, Cheryl D"
+Wendy Sherman <wsherman                                                                                  B6,2009-05-05T17:53:52,Cheryl Mills1 <cheryl.millE
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-05T18:39:44,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-05T18:40:00,H
+"Mills, Cheryl D <MillsCD@state.gov >",2009-05-06T05:35:00,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T05:35:23,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T05:35:23,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T05:35:23,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T05:35:23,H
+H <HDR22@clintonemail.com>,2009-05-06T05:58:44,"Mills, Cheryl D"
+H <HDR22@clintonemail.com>,2009-05-06T05:58:44,"Mills, Cheryl D"
+H <HDR22@clintonemail.com>,2009-05-06T05:58:44,"Mills, Cheryl D"
+H <hrod17@clintonernail.com >,2009-05-06T05:59:00,'millscd@state.gov'
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T06:19:57,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T06:19:57,H
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T06:20:00,H
+H <hrod17@clintonemail.com>,2009-05-06T06:37:00,'millscd@state.gov.
+H [mailto:HDR22@clintonemail.com],2009-05-06T06:37:00,"Mills, Cheryl D"
+H <hrod17@clintonemail.com>,2009-05-06T06:50:00,'millscd@state.gov'
+H <hrod17@clintonemail.corn>,2009-05-06T06:51:00,'millscd@state.aov'
+H [mailto:HDR22@clintonemail.com],2009-05-06T06:51:00,"Mills, Cheryl D"
+H <hrod17@clintonemail.com>,2009-05-06T06:59:00,'Jake.Sullivan
+H <hrod17@clintonemail.com>,2009-05-06T06:59:00,H2
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T08:17:00,H
+"Mills, Cheryl D",2009-05-06T08:17:53,"Carpenter, Margaret V.W."
+"Mills, Cheryl D",2009-05-06T08:17:53,"Pena, Laura"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T08:27:00,H
+"Perla, Laura",2009-05-06T08:28:00,"Carpenter, Margaret V.W."
+"Perla, Laura",2009-05-06T08:28:00,"Mills, Cheryl D"
+"Mills, Cheryl D <MillsCD@state.gov>",2009-05-06T08:29:00,H
+"Valmoro, Lona 3",2009-05-06T16:51:00,"Gottemoeller,"
+"Valmoro, Lona 3",2009-05-06T16:51:00,"Burns, William 3"
+"Valmoro, Lona 3",2009-05-06T16:51:00,"Beyrle, John R"
+"Valmoro, Lona 3",2009-05-06T16:51:00,"Steinberg, James B"
+"Valmoro, Lona 3",2009-05-06T16:51:00,"Fried, Daniel"
+"Valmoro, Lona 3",2009-05-06T16:51:00,"Mills, Cheryl D"
+"Valmoro, Lona 3",2009-05-06T16:51:00,"Sullivan, Jacob J"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Stout, Jennifer P"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Nolan, Sarah E"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Polt, Michael C"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Verma, Richard R"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Verma, Richard R"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Stout, Jennifer P"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Nolan, Sarah E"
+"Rodriguez, Miguel E",2009-05-06T18:57:00,"Ruffini, Julio"
