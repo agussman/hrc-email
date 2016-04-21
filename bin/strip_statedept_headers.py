@@ -1,7 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 """
-ingest_hrc_text.py - Process the text files output by extract_text_from_pdfs.sh
+strip_statedept_headers.py -
+
+ Input: Text files output by extract_text_from_pdfs.sh
+
+ Output: Text files w/ State Department classification header/footers removed
+
 """
 import os
 import argparse
@@ -76,10 +81,13 @@ def main():
     # Track some things
     header_problem_files = []
 
-    for fname in glob(input_glob):
-    #for fname in glob(input_glob)[:200]:
+    #for fname in glob(input_glob):
+    for fname in glob(input_glob)[:10]:
 
-        print fname
+        basename = os.path.splitext(os.path.basename(fname))[0]
+        oname = os.path.join(out_dir, basename+".txt")
+
+        print "{} -> {}".format(fname, oname)
 
         # Read in the file and strip leading, trailing whitespace
         txt = [line.strip() for line in open(fname)]
@@ -91,6 +99,9 @@ def main():
             continue
 
         #print raw_txt[:10]
+        #Output the file
+        with open(oname, 'w') as fout:
+            fout.write("\n".join(raw_txt))
 
 
 
@@ -104,7 +115,7 @@ def main():
 
 
 def parse_options():
-     parser = argparse.ArgumentParser(description='Download Clinton email PDFs')
+     parser = argparse.ArgumentParser(description='Clean Header/Footers of text emails')
      #parser.add_argument('-j', '--json_results', dest='json_results', action="store", metavar="FILE", required=True)
      parser.add_argument('-o', '--out_dir', dest='out_dir', action="store", metavar="DIR", required=True)
      parser.add_argument('-f', '--files', dest='input_glob', action="store", metavar="GLOB", required=True)
