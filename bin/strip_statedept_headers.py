@@ -36,7 +36,7 @@ def remove_headers(in_txt):
         # Also check exceptions to make sure we didn't go outside the file
         try:
             # Note: removed empty linebreak from list to maintain readability
-            while line in ['RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART']:
+            while line in ['RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']:
                 idx, line = next(line_iterator)
         except StopIteration:
             continue
@@ -56,7 +56,7 @@ def remove_headers(in_txt):
                 #print "REGEX TEST: %s" % regex
                 idx, line = next(line_iterator)
                 # Cycle through any incorrect line breaks introduced into header during OCR
-                while line in ['', 'RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART']:
+                while line in ['', 'RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']:
                     #print "empty line in header section"
                     idx, line = next(line_iterator)
                 m = re.match(regex, line)
@@ -84,12 +84,13 @@ def main():
     header_problem_files = []
 
     #for fname in glob(input_glob):
-    for fname in glob(input_glob)[:10]:
+    #for fname in glob(input_glob)[:10]:
+    for fname in glob(input_glob)[-10:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
         oname = os.path.join(out_dir, basename+".txt")
 
-        print "{} -> {}".format(fname, oname)
+        print "{} {}".format(fname, oname)
 
         # Read in the file and strip leading, trailing whitespace
         txt = [line.strip() for line in open(fname)]
