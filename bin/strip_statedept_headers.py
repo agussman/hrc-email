@@ -10,8 +10,6 @@ strip_statedept_headers.py -
 """
 import os
 import argparse
-import json
-import urllib
 from glob import glob
 import re
 
@@ -29,11 +27,20 @@ def remove_headers(in_txt):
         print in_txt[0]
         return []
 
-    #it = iter(in_txt)
     line_iterator = enumerate(in_txt)
     otxt = []
 
     for idx, line in line_iterator:
+        # Actually want this to run an additional time AFTER passing through regexes
+        # Because of how wonky our iterators are, it ends up living here
+        # Also check exceptions to make sure we didn't go outside the file
+        try:
+            # Note: removed empty linebreak from list to maintain readability
+            while line in ['RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART']:
+                idx, line = next(line_iterator)
+        except StopIteration:
+            continue
+
         # Check if it's the newer single-line header
         m = re.match('UNCLASSIFIED U.S. Department of State Case No. (F-\d\d\d\d-\d*) Doc No. (C\d*) Date: (\d\d/\d\d/\d\d\d\d)', line)
         if m is not None:
@@ -73,11 +80,6 @@ def main():
     out_dir = args.out_dir
     input_glob = args.input_glob
 
-    #with open(ifile) as f:
-    #    data = json.load(f)
-
-    #print "Retrieving %s pdfs..." % len(data['Results'])
-
     # Track some things
     header_problem_files = []
 
@@ -98,13 +100,9 @@ def main():
             header_problem_files.append(fname)
             continue
 
-        #print raw_txt[:10]
         #Output the file
         with open(oname, 'w') as fout:
             fout.write("\n".join(raw_txt))
-
-
-
 
     # Report what we collected
     print "Files with header issues (%s)" % len(header_problem_files)
@@ -116,7 +114,6 @@ def main():
 
 def parse_options():
      parser = argparse.ArgumentParser(description='Clean Header/Footers of text emails')
-     #parser.add_argument('-j', '--json_results', dest='json_results', action="store", metavar="FILE", required=True)
      parser.add_argument('-o', '--out_dir', dest='out_dir', action="store", metavar="DIR", required=True)
      parser.add_argument('-f', '--files', dest='input_glob', action="store", metavar="GLOB", required=True)
 
