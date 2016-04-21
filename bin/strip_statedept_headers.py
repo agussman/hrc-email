@@ -13,6 +13,9 @@ import argparse
 from glob import glob
 import re
 
+# Post-classified header lines to check for directly
+# Could do this more efficiently w/ a regex, but electricity is cheap
+HEADER_SKIP_LINES = ['RELEASE IN', 'FULL', 'PART B6', 'B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']
 
 def remove_headers(in_txt):
     """
@@ -36,7 +39,7 @@ def remove_headers(in_txt):
         # Also check exceptions to make sure we didn't go outside the file
         try:
             # Note: removed empty linebreak from list to maintain readability
-            while line in ['RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']:
+            while line in HEADER_SKIP_LINES:
                 idx, line = next(line_iterator)
         except StopIteration:
             continue
@@ -56,7 +59,7 @@ def remove_headers(in_txt):
                 #print "REGEX TEST: %s" % regex
                 idx, line = next(line_iterator)
                 # Cycle through any incorrect line breaks introduced into header during OCR
-                while line in ['', 'RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']:
+                while line in [''] + HEADER_SKIP_LINES:
                     #print "empty line in header section"
                     idx, line = next(line_iterator)
                 m = re.match(regex, line)
@@ -66,7 +69,8 @@ def remove_headers(in_txt):
                     return []
             continue  # don't store the Date:!
 
-        # Otherwise, assume it's a normal line and return it
+        # Otherwise, assume it's a normal line and return it after stripping trailing classification marks
+        line = re.sub(r'(\s*B\d,)?\s*B\d$', '', line)
         otxt.append(line)
 
     return otxt
@@ -85,15 +89,15 @@ def main():
 
     #for fname in glob(input_glob):
     #for fname in glob(input_glob)[:10]:
-    for fname in glob(input_glob)[-10:]:
+    for fname in glob(input_glob)[-200:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
         oname = os.path.join(out_dir, basename+".txt")
 
-        print "{} {}".format(fname, oname)
-
         # Read in the file and strip leading, trailing whitespace
         txt = [line.strip() for line in open(fname)]
+
+        print "{} {} {}".format(fname, oname, len(txt))
 
         raw_txt = remove_headers(txt)
 
