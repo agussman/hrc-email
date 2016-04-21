@@ -15,8 +15,8 @@ import re
 
 # Post-classified header lines to check for directly
 # Could do this more efficiently w/ a regex, but electricity is cheap
-HEADER_SKIP_LINES = ['RELEASE IN', 'FULL', 'PART B6', 'B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']
-
+#HEADER_SKIP_LINES = ['RELEASE IN', 'FULL', 'PART B6', 'B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']
+HEADER_SKIP_LINES = []
 
 def clean_and_enumerate(txt):
     """
