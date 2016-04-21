@@ -1,0 +1,117 @@
+#!/usr/bin/env python
+# coding: utf-8
+"""
+ingest_hrc_text.py - Process the text files output by extract_text_from_pdfs.sh
+"""
+import os
+import argparse
+import json
+import urllib
+from glob import glob
+import re
+
+
+def remove_headers(in_txt):
+    """
+    Remove the FOIA header/footer lines
+    :param in_txt: OCR text extracted from PDFs. Assumed -layout option was used.
+    :return: text with FOIA headers and footers removed
+    """
+
+    # Sanity check document starts as expected
+    if not re.match('UNCLASSIFIED', in_txt[0]):
+        print "NOOOOOO"
+        print in_txt[0]
+        return []
+
+    #it = iter(in_txt)
+    line_iterator = enumerate(in_txt)
+    otxt = []
+
+    for idx, line in line_iterator:
+        # Check if it's the newer single-line header
+        m = re.match('UNCLASSIFIED U.S. Department of State Case No. (F-\d\d\d\d-\d*) Doc No. (C\d*) Date: (\d\d/\d\d/\d\d\d\d)', line)
+        if m is not None:
+            #caseno = m.group(1)
+            #docno = m.group(2)
+            #date = m.group(3)
+            continue
+        # Check for start of Benghazi format
+        # Footer, subsequent headers are a plain "UNCLASSIFIED"
+        m = re.match('UNCLASSIFIED\s*STATE DEPT. - PRODUCED TO HOUSE SELECT BENGHAZI COMM.', line)
+        if m is not None or line == "UNCLASSIFIED":
+            for regex in ['U.S. Department of State', 'Case No.', 'Doc No.', 'Date']:
+                #print "REGEX TEST: %s" % regex
+                idx, line = next(line_iterator)
+                # Cycle through any incorrect line breaks introduced into header during OCR
+                while line in ['', 'RELEASE IN', 'FULL', 'PART B6', 'RELEASE IN PART']:
+                    #print "empty line in header section"
+                    idx, line = next(line_iterator)
+                m = re.match(regex, line)
+                if m is None:
+                    # Something is screwed up, we didn't match the expected following header lines
+                    print "HEADER PROBLEM Line %s: %s" % (idx, line)
+                    return []
+            continue  # don't store the Date:!
+
+        # Otherwise, assume it's a normal line and return it
+        otxt.append(line)
+
+    return otxt
+
+
+
+def main():
+
+    args = parse_options()
+    #ifile = args.json_results
+    out_dir = args.out_dir
+    input_glob = args.input_glob
+
+    #with open(ifile) as f:
+    #    data = json.load(f)
+
+    #print "Retrieving %s pdfs..." % len(data['Results'])
+
+    # Track some things
+    header_problem_files = []
+
+    for fname in glob(input_glob):
+    #for fname in glob(input_glob)[:200]:
+
+        print fname
+
+        # Read in the file and strip leading, trailing whitespace
+        txt = [line.strip() for line in open(fname)]
+
+        raw_txt = remove_headers(txt)
+
+        if len(raw_txt) == 0:
+            header_problem_files.append(fname)
+            continue
+
+        #print raw_txt[:10]
+
+
+
+
+    # Report what we collected
+    print "Files with header issues (%s)" % len(header_problem_files)
+    for fname in header_problem_files:
+        print fname
+
+
+
+
+def parse_options():
+     parser = argparse.ArgumentParser(description='Download Clinton email PDFs')
+     #parser.add_argument('-j', '--json_results', dest='json_results', action="store", metavar="FILE", required=True)
+     parser.add_argument('-o', '--out_dir', dest='out_dir', action="store", metavar="DIR", required=True)
+     parser.add_argument('-f', '--files', dest='input_glob', action="store", metavar="GLOB", required=True)
+
+     return parser.parse_args()
+
+if __name__ == '__main__':
+    main()
+
+
