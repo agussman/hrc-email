@@ -17,6 +17,26 @@ import re
 # Could do this more efficiently w/ a regex, but electricity is cheap
 HEADER_SKIP_LINES = ['RELEASE IN', 'FULL', 'PART B6', 'B6', 'RELEASE IN PART', 'RELEASE IN PART B6', 'RELEASE IN FULL']
 
+
+def clean_and_enumerate(txt):
+    """
+    Generator to perform some basic REGEX cleaning on each line of text
+    Strip trailing classification marks
+    :param txt:
+    :return:
+    """
+    for i, line in enumerate(txt):
+        # Stagger these so they "cut down" to the next case
+        # RELEASE IN PART B5 > RELEASE IN PART > RELEASE IN
+        # Ending in B5 or B6 or B5,B6, etc
+        line = re.sub(r'(\s*B\d,)?\s*B\d$', '', line)
+        # Ending in FULL or PART
+        line = re.sub(r'\s*(FULL|PART)$', '', line)
+        line = re.sub(r'\s*(RELEASE IN)$', '', line)
+        yield i, line
+
+
+
 def remove_headers(in_txt):
     """
     Remove the FOIA header/footer lines
@@ -30,7 +50,9 @@ def remove_headers(in_txt):
         print in_txt[0]
         return []
 
-    line_iterator = enumerate(in_txt)
+
+    #line_iterator = enumerate(in_txt)
+    line_iterator = clean_and_enumerate(in_txt)
     otxt = []
 
     for idx, line in line_iterator:
@@ -69,8 +91,7 @@ def remove_headers(in_txt):
                     return []
             continue  # don't store the Date:!
 
-        # Otherwise, assume it's a normal line and return it after stripping trailing classification marks
-        line = re.sub(r'(\s*B\d,)?\s*B\d$', '', line)
+        # Otherwise, assume it's a normal line and return it
         otxt.append(line)
 
     return otxt
