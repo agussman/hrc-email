@@ -27,9 +27,9 @@ def clean_and_enumerate(txt):
     """
     for i, line in enumerate(txt):
         # Stagger these so they "cut down" to the next case
-        # RELEASE IN PART B5 > RELEASE IN PART > RELEASE IN
-        # Ending in B5 or B6 or B5,B6, etc
-        line = re.sub(r'(\s*B\d,)?\s*B\d$', '', line)
+        # RELEASE IN PART B4,B5,B6 > RELEASE IN PART > RELEASE IN
+        # Ending in B5 or B6 or B5,B6, or B6,B7(C),B7(E),B7(F),B6 etc
+        line = re.sub(r'(\s*B\d(\([A-F]\))?,)*\s*B\d(\([A-F]\))?$', '', line)
         # Ending in FULL or PART
         line = re.sub(r'\s*(FULL|PART)$', '', line)
         line = re.sub(r'\s*(RELEASE IN)$', '', line)
@@ -109,8 +109,8 @@ def main():
     header_problem_files = []
 
     #for fname in glob(input_glob):
-    #for fname in glob(input_glob)[:10]:
-    for fname in glob(input_glob)[-200:]:
+    #for fname in glob(input_glob)[:200]:
+    for fname in glob(input_glob)[-2000:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
         oname = os.path.join(out_dir, basename+".txt")
