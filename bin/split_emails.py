@@ -12,6 +12,8 @@ import os
 import argparse
 from glob import glob
 import re
+import json
+
 from time import mktime, strptime
 from datetime import datetime
 from dateutil.parser import parse
@@ -21,6 +23,11 @@ from talon import quotations
 from talon.utils import get_delimiter
 talon.init()
 
+import logging
+#logging.basicConfig(format='%(asctime)s %(message)s')
+logging.basicConfig()
+LOG = logging.getLogger('strip_statedept_headers')
+LOG.setLevel(logging.DEBUG)
 
 # Regexes taken from talon
 
@@ -130,6 +137,23 @@ SENT_DATE_FORMATS = [
 
 
 DATE_MISSING_COLON = re.compile('(\d?\d) ?(\d\d .M)$')
+
+def map_release(release_file):
+    """
+    Given the cleaned response.json, pull out the filename > data release mappings
+    :param release_file:
+    :return: dictionary key: file basename, value email release
+    """
+    filename_release_map = {}
+    with open(release_file) as f:
+        data = json.load(f)
+        for r in data['Results']:
+            filename_release_map[os.path.splitext(os.path.basename(r['pdfLink']))[0]] = r['documentClass']
+
+    LOG.info("filename to release mappings: %s", len(filename_release_map))
+
+    return filename_release_map
+
 
 def partition(alist, indices):
     """
@@ -265,8 +289,8 @@ def sent_to_datetime(date_str):
         except ValueError:
             pass
 
-
-    print "UNPARSABLE DATE: {}".format(date_str)
+    LOG.debug("UNPARSABLE DATE: %s", date_str)
+    #print "UNPARSABLE DATE: {}".format(date_str)
     return None
 
 
@@ -284,7 +308,7 @@ def parse_features(features):
         # if it's missing in lower sections it could be the result of a redaction
         # Note that subsequent sections might not have a 'To' field
         if sect_num == 0 and not section.get('to'):
-            parts['to'] = ['H']
+            parts['to'] = ['HRC-ASSUMED']
         elif section.get('to'):
             # Split the 'to' field on semicolon
             parts['to'] = [x.strip() for x in section.get('to', '').split(';')]
@@ -306,7 +330,12 @@ def parse_features(features):
 
         # Do a whole bunch of stuff to try and turn the sent into a datetime object
         if parts.get('sent'):
-            parts['timestamp'] = sent_to_datetime(parts.get('sent'))
+            dt = sent_to_datetime(parts.get('sent'))
+
+            if dt:
+                # Don't save datetime directly, since it breaks json serialization
+                parts['timestamp'] = dt.isoformat()
+                parts['hour_minute'] = "%s:%s" % (dt.hour, dt.minute)
 
         parsed_parts.append(parts)
 
@@ -319,16 +348,20 @@ def main():
     args = parse_options()
     out_dir = args.out_dir
     input_glob = args.input_glob
+    release_file = args.release_file
+
+    filename_release_map = map_release(release_file)
+
 
     # Track some things
 
 
-    #for fname in glob(input_glob):
+    for fname in glob(input_glob):
     #for fname in glob(input_glob)[:10]:
-    for fname in glob(input_glob)[-2000:]:
+    #for fname in glob(input_glob)[-2000:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
-        oname = os.path.join(out_dir, basename+".txt")
+        #oname = os.path.join(out_dir, basename+".txt")
 
         # Read in the entire file
         txt = open(fname).read()
@@ -341,6 +374,20 @@ def main():
 
         parsed = parse_features(features)
 
+        # Add some file-level metadata to each record and write it out
+        for record in parsed:
+            record['document'] = basename
+            record['release'] = filename_release_map[basename]
+            record['id'] = "%s-%s" % (record['document'], record['sect_num'])
+
+            oname = os.path.join(out_dir, record['id']+".json")
+
+            LOG.debug("%s %s %s %s %s", fname, oname, len(txt), len(emails), record['sect_num'])
+
+            with open(oname, 'w') as fout:
+                json.dump(record, fout, indent=4)
+
+
         #pprint(parsed)
 
 
@@ -349,12 +396,14 @@ def main():
 
 
 
-def parse_options():
-     parser = argparse.ArgumentParser(description='Split email chains')
-     parser.add_argument('-o', '--out_dir', dest='out_dir', action="store", metavar="DIR", required=True)
-     parser.add_argument('-f', '--files', dest='input_glob', action="store", metavar="GLOB", required=True)
 
-     return parser.parse_args()
+def parse_options():
+    parser = argparse.ArgumentParser(description='Split email chains')
+    parser.add_argument('-o', '--out_dir', dest='out_dir', action="store", metavar="DIR", required=True)
+    parser.add_argument('-f', '--files', dest='input_glob', action="store", metavar="GLOB", required=True)
+    parser.add_argument('-r', '--release', dest='release_file', action="store", metavar="FILE", required=True)
+
+    return parser.parse_args()
 
 if __name__ == '__main__':
     main()
