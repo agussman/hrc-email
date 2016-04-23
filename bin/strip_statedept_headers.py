@@ -108,9 +108,9 @@ def main():
     # Track some things
     header_problem_files = []
 
-    #for fname in glob(input_glob):
+    for fname in glob(input_glob):
     #for fname in glob(input_glob)[:200]:
-    for fname in glob(input_glob)[-2000:]:
+    #for fname in glob(input_glob)[-2000:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
         oname = os.path.join(out_dir, basename+".txt")
