@@ -125,6 +125,7 @@ SENT_DATE_FORMATS = [
     '%a, %b %d, %Y %I:%M %p',    # Wed, Dec 15, 2010 1:21 PM
     '%m/%d/%Y %I:%M %p',         # 12/14/2010 03:31 PM
     '''
+    #'%a %d %b %Y %H:%M:%S %z',  # Tue 7 Dec 2010 10:48:52 -0500
 ]
 
 
@@ -222,7 +223,8 @@ def sent_to_datetime(date_str):
     """
 
     # Replace all non-: punctuation characters with space, they aren't needed for dateutil.parse
-    date_str = re.sub('[^\w:]', ' ', date_str)
+    # Keep - for timezone offset
+    date_str = re.sub('[^\w:-]', ' ', date_str)
     # Remove adjacent spaces
     date_str = " ".join(date_str.split())
 
