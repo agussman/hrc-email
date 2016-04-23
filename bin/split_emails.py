@@ -111,8 +111,9 @@ HEADER_KEY_COLON = re.compile('(\w+):(.*)')
 
 
 SENT_DATE_FORMATS = [
-    '%A, %B %d, %Y %I:%M %p',   # Wednesday, September 12, 2012 07:46 AM
-    '%A, %B %d,%Y %I:%M %p',    # Wednesday, September 12,2012 12:44 PM
+    '''
+    '%A, %B %d, %Y %I:%M %p',   # Wednesday, September 12, 2012 07:46 AM (dateutil.parser OK)
+    '%A, %B %d,%Y %I:%M %p',    # Wednesday, September 12,2012 12:44 PM (du.p OK)
     '%A, %B %d %Y %I:%M %p',    # Tuesday, September 11 2012 1:31 PM
     '%A, %B %d, %Y %I:%M %p',   # Sunday, March 13, 2011 10:55 AM
     #'%A, %B %d %Y %I%M %p',     # Wednesday, September 12 2012 700 PM -> DATE_MISSING_COLON
@@ -123,7 +124,7 @@ SENT_DATE_FORMATS = [
     '%a, %d %b %Y %H:%M:%S %z',  # Tue, 7 Dec 2010 10:48:52 -0500
     '%a, %b %d, %Y %I:%M %p',    # Wed, Dec 15, 2010 1:21 PM
     '%m/%d/%Y %I:%M %p',         # 12/14/2010 03:31 PM
-
+    '''
 ]
 
 
@@ -220,18 +221,32 @@ def sent_to_datetime(date_str):
     :return:
     """
 
+    # Replace all non-: punctuation characters with space, they aren't needed for dateutil.parse
+    date_str = re.sub('[^\w:]', ' ', date_str)
+    # Remove adjacent spaces
+    date_str = " ".join(date_str.split())
+
     # OCR tends to drop the colon from ##:## XM
     # '(\d?\d)(\d\d) ([A|P]M)'
     date_str = re.sub(DATE_MISSING_COLON, r"\1:\2", date_str)
 
     # Sometimes the redacted marker ends up on the line as well. Remove it.
-    date_str = re.sub('\s+B\d$', "", date_str)
+    # NOTE: Think this can be removed now
+    # date_str = re.sub('\s+B\d$', "", date_str)
 
     # Remove ' at ' if its in there
     date_str = re.sub('\s+at\s+', ' ', date_str)
 
     # If it ends in "Eastern Standard Time", replace it with EST
-    date_str = re.sub('Eastern Standard Time', 'EST', date_str)
+    date_str = re.sub('Eastern Standard Time', 'EST', date_str, flags=re.I)
+
+
+    # Try to parse it w/ dateutil function
+    try:
+        dt = parse(date_str)
+        return dt
+    except ValueError:
+        print "UNPARSABLE DATE: {}".format(date_str)
 
     for date_format in SENT_DATE_FORMATS:
         try:
@@ -240,11 +255,7 @@ def sent_to_datetime(date_str):
         except ValueError:
             pass
 
-    try:
-        dt =  parse(date_str)
-        return dt
-    except ValueError:
-        print "UNPARSABLE DATE: {}".format(date_str)
+
 
     return None
 
@@ -304,7 +315,7 @@ def main():
 
     #for fname in glob(input_glob):
     #for fname in glob(input_glob)[:10]:
-    for fname in glob(input_glob)[-200:]:
+    for fname in glob(input_glob)[-300:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
         oname = os.path.join(out_dir, basename+".txt")
@@ -323,7 +334,7 @@ def main():
         #pprint(parsed)
 
 
-        print "{} {} {} {}".format(fname, oname, len(txt), len(emails))
+        #print "{} {} {} {}".format(fname, oname, len(txt), len(emails))
 
 
 
