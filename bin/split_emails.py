@@ -236,6 +236,8 @@ def sent_to_datetime(date_str):
     # NOTE hour must be 2-digits, otherwise could be ambiguous eg 20112:00
     date_str = re.sub('(\d{4})(\d\d:\d\d .M)', r"\1 \2", date_str)
 
+    # Sometimes there are extra spaces before or after the colon, remove them
+    date_str = re.sub(' ?: ?', ':', date_str)
 
     # Sometimes the redacted marker ends up on the line as well. Remove it.
     # NOTE: Think this can be removed now
@@ -246,6 +248,7 @@ def sent_to_datetime(date_str):
 
     # If it ends in "Eastern Standard Time", replace it with EST
     date_str = re.sub('Eastern Standard Time', 'EST', date_str, flags=re.I)
+    date_str = re.sub('Central Standard Time', 'CST', date_str, flags=re.I)
 
 
     # Try to parse it w/ dateutil function
@@ -322,7 +325,7 @@ def main():
 
     #for fname in glob(input_glob):
     #for fname in glob(input_glob)[:10]:
-    for fname in glob(input_glob)[-1000:]:
+    for fname in glob(input_glob)[-2000:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
         oname = os.path.join(out_dir, basename+".txt")
