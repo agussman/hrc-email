@@ -232,6 +232,11 @@ def sent_to_datetime(date_str):
     # '(\d?\d)(\d\d) ([A|P]M)'
     date_str = re.sub(DATE_MISSING_COLON, r"\1:\2", date_str)
 
+    # Space gets dropped a lot between year and hour 201306:54 PM
+    # NOTE hour must be 2-digits, otherwise could be ambiguous eg 20112:00
+    date_str = re.sub('(\d{4})(\d\d:\d\d .M)', r"\1 \2", date_str)
+
+
     # Sometimes the redacted marker ends up on the line as well. Remove it.
     # NOTE: Think this can be removed now
     # date_str = re.sub('\s+B\d$', "", date_str)
@@ -248,7 +253,7 @@ def sent_to_datetime(date_str):
         dt = parse(date_str)
         return dt
     except ValueError:
-        print "UNPARSABLE DATE: {}".format(date_str)
+        pass
 
     for date_format in SENT_DATE_FORMATS:
         try:
@@ -258,7 +263,7 @@ def sent_to_datetime(date_str):
             pass
 
 
-
+    print "UNPARSABLE DATE: {}".format(date_str)
     return None
 
 
@@ -317,7 +322,7 @@ def main():
 
     #for fname in glob(input_glob):
     #for fname in glob(input_glob)[:10]:
-    for fname in glob(input_glob)[-300:]:
+    for fname in glob(input_glob)[-1000:]:
 
         basename = os.path.splitext(os.path.basename(fname))[0]
         oname = os.path.join(out_dir, basename+".txt")
