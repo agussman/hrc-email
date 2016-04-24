@@ -23,7 +23,17 @@ def main():
         with open(fname) as data_file:
             data = json.load(data_file)
 
-            print data[key]
+            value = data.get(key)
+
+            # Skip it if it's missing
+            if value is None:
+                continue
+
+            if isinstance(value, (list, tuple)):
+                for x in value:
+                    print x
+            else:
+                print value
 
 
 def parse_options():
