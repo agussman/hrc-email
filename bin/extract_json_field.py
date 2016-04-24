@@ -17,29 +17,30 @@ def main():
 
     args = parse_options()
     input_glob = args.input_glob
-    key = args.key
 
     for fname in glob(input_glob)[:10]:
         with open(fname) as data_file:
             data = json.load(data_file)
 
-            value = data.get(key)
+            for key in args.key:
 
-            # Skip it if it's missing
-            if value is None:
-                continue
+                value = data.get(key)
 
-            if isinstance(value, (list, tuple)):
-                for x in value:
-                    print x
-            else:
-                print value
+                # Skip it if it's missing
+                if value is None:
+                    continue
+
+                if isinstance(value, (list, tuple)):
+                    for x in value:
+                        print x
+                else:
+                    print value
 
 
 def parse_options():
     parser = argparse.ArgumentParser(description='Split email chains')
     parser.add_argument('-f', '--files', dest='input_glob', action="store", metavar="GLOB", required=True)
-    parser.add_argument('-k', '--key', dest='key', action="store", metavar="KEY", required=True)
+    parser.add_argument('-k', '--key', dest='key', action="store", metavar="KEY", required=True, nargs='*')
 
     return parser.parse_args()
 
